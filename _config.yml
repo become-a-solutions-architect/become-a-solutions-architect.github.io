@@ -1,7 +1,4 @@
 theme: jekyll-theme-minimal
 logo: /BeSA Logo - Transparent.png   
-title: Become a Solutions Architect
+title: 
 description: A team of Amazonians will guide you to your next career step.
-site:
-  github:
-    is_project_page: false
