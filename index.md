@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to BeSA program
 
-You can use the [editor on GitHub](https://github.com/become-a-solutions-architect/besa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A team of AWS amazonians will help you to pursue a career of Solutions Architect.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What do we offer
 
-### Markdown
+Extensive 3 months program to help you ramp up and get ready for the rigorous and sometimes tough interview process in tier 1 technology companies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Meet the team
 
-```markdown
-Syntax highlighted code block
+Bob, Rob, Cop, and Pop – all there to guide you
 
-# Header 1
-## Header 2
-### Header 3
+### Interested? Register now!
 
-- Bulleted
-- List
+Fulfill the form [here](https://docs.github.com/categories/github-pages-basics/) and the team will come back to you with futher steps.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/become-a-solutions-architect/besa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
