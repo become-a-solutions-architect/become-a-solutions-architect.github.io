@@ -17,3 +17,11 @@ Fulfill the form [here](https://en.wikipedia.org/wiki/Land_registration) and the
 ### Next session on Twitch
 
 Join us [Twitch](https://www.twitch.tv/aws) for the next session.
+
+### Session schedule
+
+| Times                   |                Topic             |    Type.   |
+|-------------------------|:--------------------------------:|----------:|
+| 15.04.2022 10:00 AM CET |  Introduction to the program     | General   |
+| 25.04.2022 10:00 AM CET |    Getting certified             | Technical |
+| 10.05.2022 10:00 AM CET | Mocking the behavioral interview | Behavioral|
