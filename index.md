@@ -12,5 +12,8 @@ Bob, Rob, Cop, and Pop – all there to guide you
 
 ### Interested? Register now!
 
-Fulfill the form [here](https://docs.github.com/categories/github-pages-basics/) and the team will come back to you with futher steps.
+Fulfill the form [here](https://en.wikipedia.org/wiki/Land_registration) and the team will come back to you with futher steps.
 
+### Next session on Twitch
+
+Join us [Twitch](https://www.twitch.tv/aws) for the next session.
