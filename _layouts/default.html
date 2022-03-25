@@ -19,6 +19,10 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <ul class="links">
+            <li><a href="{{ https://media.amazonwebservices.com/blog/2013/reinvent_2013_welcome_reg_1.jpg }}">Register <strong>now!</strong></a></li>
+            <li><a href="{{ faq.md }}">See <strong>FAQ</strong></a></li>
+          </ul>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
