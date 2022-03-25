@@ -14,6 +14,10 @@ Fulfill the form [here](https://en.wikipedia.org/wiki/Land_registration) and the
 
 Join us [Twitch](https://www.twitch.tv/aws) for the next session.
 
+### FAQ
+
+Visit FAQ [here](faq.md)
+
 ### Session schedule
 
 | Times                   |                Topic             |    Type   |
