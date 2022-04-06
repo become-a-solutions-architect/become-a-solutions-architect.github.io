@@ -21,8 +21,8 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 Stage 1: Technical track
 
 - Candidates will register via a registration form - April 2022
-- 40-50 Candidates are down selected - date May 2022
-- Regular sessions will be set up with all the candidates - from XX/XX/22 to XX/XX/22
+- Candidates are down selected - date May 2022
+- Regular sessions will be set up with all the candidates - from 07/05/22 to July 2022
 - Dedicate 2 hours time to attend an online session on Saturday and 4 to 6 hours each week to go through additional online learning activities
 
 Stage 2 : Up to 20 people will be selected based on the activities in Stage 1 for 1:1 mentoring with AWS experts to prep you for next level in your career.
@@ -36,9 +36,6 @@ Candidates will be shared a slack channel where they can help each other and get
 
 Fulfill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSd8nyKV05msGbFaaT83HWbVK3TsNomM0pU4tIfzMrGZtFda5Q/viewform) and the team will come back to you with futher steps.
 
-### Next session on Twitch
-
-Join us [Twitch](https://www.twitch.tv/aws) for the next session. > //////////////update needed
 
 ### FAQ
 
