@@ -43,11 +43,11 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-| Times                   |                Topic             |    Type   |
-|-------------------------|:--------------------------------:|----------:|
-| 15.04.2022 10:00 AM CET |  Introduction to the program     | General   |
-| 25.04.2022 10:00 AM CET |    Getting certified             | Technical |
-| 10.05.2022 10:00 AM CET | Mocking the behavioral interview | Behavioral|
+| Times                   |                Topic             |    Type   |  Duration |
+|-------------------------|:--------------------------------:|----------:|----------:|
+| 07.05.2022 10:00 AM CET |  Stage 1 - technical concepts    | General   | 8 weeks   |
+| 02.07.2022 10:00 AM CET |  Stage 2  - behavioral concepts  | General   | 4 weeks   |
+
 
 ### Meet the team
 
