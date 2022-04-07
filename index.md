@@ -20,8 +20,8 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 
 Stage 1: Technical Track
 
-- Registratin will be open to all interested candidates - April 2022
-- Regular online sessions will be set up every Saturday (10 AM UK time) for all the candidates - Starting from 07/05/22
+- Registratin will be open to all interested candidates
+- Regular online sessions will be set up every Saturday
 - 6 to 8 hours of additional online learning activities each week to complete at your own time
 
 Stage 2 : Behavioural Track
