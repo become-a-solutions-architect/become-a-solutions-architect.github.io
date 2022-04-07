@@ -12,17 +12,17 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 - In case of any conflicting information always refer to the official AWS Documentation.
 
 ## Prerequisites:
-- You can dedicate 12 weeks and weekly meetings - Saturday Morning
-- Each session will be 2h long with external recommended activities
-- Have your own AWS account
+- Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week 
+- Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
+- Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
 ## At a high level, the program is comprised of 2 stages:
 
 Stage 1: Technical Track
 
-- Candidates will register via a registration form - April 2022
-- Regular sessions will be set up for all the candidates - starting from 07/05/22
-- Dedicate 2 hours time to attend an online session on Saturday and 6 to 8 hours each week to go through additional online learning activities
+- Registratin will be open to all interested candidates - April 2022
+- Regular online sessions will be set up every Saturday (10 AM UK time) for all the candidates - Starting from 07/05/22
+- 6 to 8 hours of additional online learning activities each week to complete at your own time
 
 Stage 2 : Behavioural Track
 
@@ -44,7 +44,7 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-| Starting Date           |                Topic             |    Type   |  Duration |
+| Starting Date           |             Topic                |   Type    | Duration  |
 |-------------------------|:--------------------------------:|----------:|----------:|
 | 07.05.2022 10:00 AM CET |  Stage 1 - Technical Track       | General   | 8 weeks   |
 | 02.07.2022 10:00 AM CET |  Stage 2 - Behavioral Track      | General   | 4 weeks   |
