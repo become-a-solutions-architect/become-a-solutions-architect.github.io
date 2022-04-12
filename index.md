@@ -83,7 +83,7 @@ all there to guide you.
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
 <table>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/83539129/163026211-898baf8f-4cb9-4aa9-80ad-c04c5a9bfbb3.png"  alt="1" width = 119px height = 160px ></td>
+    <td> <img width="100" alt="Screenshot 2022-04-12 at 19 28 55" src="https://user-images.githubusercontent.com/83539129/163029706-b942e726-a8b4-461e-a0ac-2526209dddc7.png"> </td>
     <td>Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.</td>
    </tr> 
 </table>
