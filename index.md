@@ -5,12 +5,6 @@ This is a unique opportunity for you to be mentored by AWS Solution Architects t
 Many people reach out to us to get started on learning AWS to becoming Solutions Architect, or, simply need help with achieving certifications for career progression.
 In this free pilot program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
-## Disclaimer:
-- This is not a job guarantee program. 
-- This program is not affiliated with AWS. It is created by volunteers who work at AWS.
-- Views shared by us are our own and do not represent our employer.
-- In case of any conflicting information always refer to the official AWS Documentation.
-
 ## Prerequisites:
 - Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week 
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
@@ -70,3 +64,10 @@ Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. H
 
 
 all there to guide you.
+
+## Disclaimer:
+- This is not a job guarantee program. 
+- This program is not affiliated with AWS. It is created by volunteers who work at AWS.
+- Views shared by us are our own and do not represent our employer.
+- In case of any conflicting information always refer to the official AWS Documentation.
+
