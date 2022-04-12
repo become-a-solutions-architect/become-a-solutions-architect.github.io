@@ -45,34 +45,31 @@ Visit FAQ [here](faq.md)
 ## Meet the team
 
 ### [Alex Paramonov](https://www.linkedin.com/search/results/all/?keywords=alex%20paramonov&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0cc65444-31a1-4ed9-8f90-cebda726f5c4&sid=OmW)
-![Drag Racing](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
-![image info](./picture/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
-![image info](./https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
-![image info](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![1608129775151](https://user-images.githubusercontent.com/83539129/163026979-cfddc4f9-2b48-476f-b3aa-b0889dc4a4e0.jpg | width=100)
 
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
-<img width="266" alt="Screenshot 2022-04-12 at 19 06 01" src="https://user-images.githubusercontent.com/83539129/163026211-898baf8f-4cb9-4aa9-80ad-c04c5a9bfbb3.png">
+<img width="100" alt="Screenshot 2022-04-12 at 19 06 01" src="https://user-images.githubusercontent.com/83539129/163026211-898baf8f-4cb9-4aa9-80ad-c04c5a9bfbb3.png">
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
 
 
 
 
 ### [Christelle Vinot](https://www.linkedin.com/in/christelle-vinot-4b5a2055/)
-![1579633180214](https://user-images.githubusercontent.com/83539129/163026097-7567342c-9f76-4e55-a6e2-99ce1c039963.jpg)
+![1579633180214](https://user-images.githubusercontent.com/83539129/163026097-7567342c-9f76-4e55-a6e2-99ce1c039963.jpg| width=100)
 
 
 Christelle is a Solution Architect at AWS based in London, UK. She shares interest in sustainability transformation and loves mentoring and coaching others at personal and professional level. She works with Siemens Globally and helps customers innovate and solve business problems using AWS Services. Shehas background in Networking, storage and on premises datacenters.  Outside of work, Christelle enjoys hiking, running and is a volunteer with Age UK.  
 
 
 ### [Jamila Jamilova](https://www.linkedin.com/in/jjamilova/)
-<img width="265" alt="Screenshot 2022-04-12 at 19 06 11" src="https://user-images.githubusercontent.com/83539129/163026079-d59cca16-801c-4cbb-b21b-ea8563241891.png">
+<img width="100" alt="Screenshot 2022-04-12 at 19 06 11" src="https://user-images.githubusercontent.com/83539129/163026079-d59cca16-801c-4cbb-b21b-ea8563241891.png">
 
 Jamila Jamilova is a Solutions Architect helping Manufacturing and Industrials customers to transform their businesses by solving complex technical problems. She is an active member of Technical Field Community with focus on Internet of Things (IoT). In her spare time she is playing piano, practicing karate and enjoys playing racing cars.
 
 ### [Prasad Rao](https://www.linkedin.com/in/kprasadrao/)
-<img width="271" alt="Screenshot 2022-04-12 at 19 05 49" src="https://user-images.githubusercontent.com/83539129/163025995-271cbc82-63af-48ac-b74a-f51f2b74de60.png">
+<img width="100" alt="Screenshot 2022-04-12 at 19 05 49" src="https://user-images.githubusercontent.com/83539129/163025995-271cbc82-63af-48ac-b74a-f51f2b74de60.png">
 Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
 
 
