@@ -44,6 +44,7 @@ Visit FAQ [here](faq.md)
 
 
 ## Meet the team
+<img width="100" alt="Screenshot 2022-04-12 at 23 15 12" src="https://user-images.githubusercontent.com/83539129/163064160-1699c5bc-40c0-4e0f-8dc2-839ea2306661.png">
 
 ### [Alex Paramonov](https://www.linkedin.com/in/alexey-paramonov/)
 <img width="100" alt="Screenshot 2022-04-12 at 19 28 55" src="https://user-images.githubusercontent.com/83539129/163029706-b942e726-a8b4-461e-a0ac-2526209dddc7.png">
