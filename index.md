@@ -53,10 +53,20 @@ Visit FAQ [here](faq.md)
 
 ### Meet the team
 
-- Alex Paramonov
-- Ashish Prajapati
-- Christelle Vinot
-- Jamila Jamilova
-- Prasad Rao
+### Alex Paramonov
+Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides works he likes spending time with his family, building cool things at home and play video games. 
+
+### Ashish Prajapati
+Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
+
+### Christelle Vinot
+Christelle is a Solution Architect at AWS based in London, UK. She shares interest in sustainability transformation and loves mentoring and coaching others at personal and professional level. She works with Siemens Globally and helps customers innovate and solve business problems using AWS Services. Shehas background in Networking, storage and on premises datacenters.  Outside of work, Christelle enjoys hiking, running and is a volunteer with Age UK.  
+
+### Jamila Jamilova
+Jamila Jamilova is a Solutions Architect helping Manufacturing and Industrials customers to transform their businesses by solving complex technical problems. She is an active member of Technical Field Community with focus on Internet of Things (IoT). In her spare time she is playing piano, practicing karate and enjoys playing racing cars.
+
+### Prasad
+Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
+
 
 all there to guide you.
