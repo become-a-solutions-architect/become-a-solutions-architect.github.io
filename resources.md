@@ -1,6 +1,1 @@
-# Additional resources
-## Schedule
-
-## Recordings
-
-## Additional Links
+*Coming soon*
