@@ -1,4 +1,3 @@
-<img width="397" alt="Screenshot 2022-04-12 at 23 15 12" src="https://user-images.githubusercontent.com/83539129/163063709-b3fa91bd-48cb-4220-a2a4-45d470617f12.png">
 
 ## Welcome to BeSA program
 
