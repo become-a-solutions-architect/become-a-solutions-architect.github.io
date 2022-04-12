@@ -45,7 +45,7 @@ Visit FAQ [here](faq.md)
 ## Meet the team
 
 ### [Alex Paramonov](https://www.linkedin.com/search/results/all/?keywords=alex%20paramonov&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0cc65444-31a1-4ed9-8f90-cebda726f5c4&sid=OmW)
-<img width="100" alt="1608129775151" src= https://user-images.githubusercontent.com/83539129/163026979-cfddc4f9-2b48-476f-b3aa-b0889dc4a4e0.jpg">
+<img width="100" alt="1608129775151" src="https://user-images.githubusercontent.com/83539129/163028547-050c21da-e9a1-4cdf-be00-3e3d51143d92.jpg">
 
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
@@ -55,9 +55,7 @@ Alex is a Solutions Architect at AWS based in Germany specialising on prototypin
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
 
 ### [Christelle Vinot](https://www.linkedin.com/in/christelle-vinot-4b5a2055/)
-![1579633180214](https://user-images.githubusercontent.com/83539129/163026097-7567342c-9f76-4e55-a6e2-99ce1c039963.jpg|width=100)
-![1579633180214](https://user-images.githubusercontent.com/83539129/163027902-8634bf80-2156-4418-a314-8bcff35503a3.jpg = 250x250)
-
+<img width="100" alt="1579633180214" src="https://user-images.githubusercontent.com/83539129/163026097-7567342c-9f76-4e55-a6e2-99ce1c039963.jpg">
 
 Christelle is a Solution Architect at AWS based in London, UK. She shares interest in sustainability transformation and loves mentoring and coaching others at personal and professional level. She works with Siemens Globally and helps customers innovate and solve business problems using AWS Services. Shehas background in Networking, storage and on premises datacenters.  Outside of work, Christelle enjoys hiking, running and is a volunteer with Age UK.  
 
