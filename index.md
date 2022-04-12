@@ -68,3 +68,6 @@ all there to guide you.
 - Views shared by us are our own and do not represent our employer.
 - In case of any conflicting information always refer to the official AWS Documentation.
 
+
+![image info](./pictures/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+
