@@ -71,3 +71,6 @@ all there to guide you.
 
 ![Drag Racing](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
 
+![image info](./picture/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![image info](./https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+
