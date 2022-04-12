@@ -42,7 +42,7 @@ Visit FAQ [here](faq.md)
 | 02.07.2022 10:00 AM CET |  Stage 2 - Behavioral Track      | General   | 4 weeks   |
 
 
-### Meet the team
+## Meet the team
 
 ### Alex Paramonov
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
