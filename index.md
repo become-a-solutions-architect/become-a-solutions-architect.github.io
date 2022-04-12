@@ -45,7 +45,7 @@ Visit FAQ [here](faq.md)
 ## Meet the team
 
 ### [Alex Paramonov](https://www.linkedin.com/search/results/all/?keywords=alex%20paramonov&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0cc65444-31a1-4ed9-8f90-cebda726f5c4&sid=OmW)
-<img width="100" alt="1608129775151" src="https://user-images.githubusercontent.com/83539129/163028547-050c21da-e9a1-4cdf-be00-3e3d51143d92.jpg">
+<img width="100" alt="1608129775151" src="https://www.linkedin.com/in/alexey-paramonov/overlay/photo/">
 
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
