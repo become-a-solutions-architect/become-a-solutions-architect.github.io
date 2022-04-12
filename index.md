@@ -54,7 +54,7 @@ Visit FAQ [here](faq.md)
 ### Meet the team
 
 ### Alex Paramonov
-Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides works he likes spending time with his family, building cool things at home and play video games. 
+Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
 ### Ashish Prajapati
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
