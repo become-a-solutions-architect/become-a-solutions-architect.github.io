@@ -45,6 +45,10 @@ Visit FAQ [here](faq.md)
 ## Meet the team
 
 ### [Alex Paramonov](https://www.linkedin.com/search/results/all/?keywords=alex%20paramonov&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0cc65444-31a1-4ed9-8f90-cebda726f5c4&sid=OmW)
+![Drag Racing](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![image info](./picture/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![image info](./https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![image info](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
 
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
@@ -70,9 +74,6 @@ all there to guide you.
 - In case of any conflicting information always refer to the official AWS Documentation.
 
 
-![Drag Racing](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
 
-![image info](./picture/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
 
-![image info](./https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
-![image info](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+
