@@ -36,10 +36,10 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-| Starting Date           |             Topic                |   Type    | Duration  |
-|-------------------------|:--------------------------------:|----------:|----------:|
-| 07.05.2022 10:00 AM CET |  Stage 1 - Technical Track       | General   | 8 weeks   |
-| 02.07.2022 10:00 AM CET |  Stage 2 - Behavioral Track      | General   | 4 weeks   |
+| Starting Date            |             Topic                | Duration  |
+|--------------------------|:--------------------------------:|----------:|
+| 07.05.2022 10:00 AM CEST |  Stage 1 - Technical Track       | 8 weeks   |
+| 02.07.2022 10:00 AM CEST |  Stage 2 - Behavioral Track      | 4 weeks   |
 
 
 ## Meet the team
