@@ -69,5 +69,5 @@ all there to guide you.
 - In case of any conflicting information always refer to the official AWS Documentation.
 
 
-![image info](./pictures/https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
+![Drag Racing](https://www.linkedin.com/in/alexey-paramonov/overlay/photo/)
 
