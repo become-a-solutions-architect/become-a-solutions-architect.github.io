@@ -24,9 +24,6 @@ Stage 2 : Behavioural Track
 - Up to 20 people will be selected for 1:1 mentoring with AWS experts to prep you for next level in your career.
 - The selection process will depend on number of factors, including (but not limited to) assignment completion, number of registrations in the program, active attendance in previous sessions, certification exam registration, online quiz, 1:1 interview etc.
 
-## Communication : 
-Candidates will be added to a slack channel where they can help each other and get mentoring from the facilitators
- 
 
 ### Interested? Register now!
 
