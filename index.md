@@ -56,7 +56,7 @@ Ashish Prajapati is a technical instructor based in London, UK. He delivers a wi
 
 ### [Christelle Vinot](https://www.linkedin.com/in/christelle-vinot-4b5a2055/)
 ![1579633180214](https://user-images.githubusercontent.com/83539129/163026097-7567342c-9f76-4e55-a6e2-99ce1c039963.jpg|width=100)
-![1579633180214](https://user-images.githubusercontent.com/83539129/163027902-8634bf80-2156-4418-a314-8bcff35503a3.jpg)
+![1579633180214](https://user-images.githubusercontent.com/83539129/163027902-8634bf80-2156-4418-a314-8bcff35503a3.jpg = 250x250)
 
 
 Christelle is a Solution Architect at AWS based in London, UK. She shares interest in sustainability transformation and loves mentoring and coaching others at personal and professional level. She works with Siemens Globally and helps customers innovate and solve business problems using AWS Services. Shehas background in Networking, storage and on premises datacenters.  Outside of work, Christelle enjoys hiking, running and is a volunteer with Age UK.  
