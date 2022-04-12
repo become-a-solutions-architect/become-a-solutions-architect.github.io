@@ -2,7 +2,7 @@
 
 This is a unique opportunity for you to be mentored by AWS Solution Architects to acquire skills to become a Solutions Architect.
 
-Many people reach out to us to get started on learning AWS to becoming Solutions Architect, or, simply need help with achieving certifications for career progression.
+Many people reach out to us to get started on learning AWS to become Solutions Architect, or, simply need help with achieving certifications for career progression.
 In this free pilot program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
 ## Prerequisites:
@@ -71,20 +71,10 @@ Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. H
 
 
 
-all there to guide you.
+All there to guide you.
 
 ## Disclaimer:
 - This is not a job guarantee program. 
 - This program is not affiliated with AWS. It is created by volunteers who work at AWS.
 - Views shared by us are our own and do not represent our employer.
 - In case of any conflicting information always refer to the official AWS Documentation.
-
-
-### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
-<table>
-  <tr>
-    <td> <img width="100" alt="Screenshot 2022-04-12 at 19 28 55" src="https://user-images.githubusercontent.com/83539129/163029706-b942e726-a8b4-461e-a0ac-2526209dddc7.png"> </td>
-    <td>Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.</td>
-   </tr> 
-</table>
-
