@@ -46,7 +46,7 @@ Visit FAQ [here](faq.md)
 ## [Meet the team](https://become-a-solutions-architect.github.io/)
 
 ### [Alex Paramonov](https://www.linkedin.com/in/alexey-paramonov/)
-<img width="100" alt="Screenshot 2022-04-12 at 19 28 55" src="https://user-images.githubusercontent.com/83539129/163029706-b942e726-a8b4-461e-a0ac-2526209dddc7.png">
+![Alex](/assets/img/alex.png#left)
 
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
