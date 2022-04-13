@@ -50,7 +50,7 @@ Visit FAQ [here](faq.md)
 Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
 
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
-<img style="border-radius: 8px; float: left; width: 100px" alt="Ashish" src="https://user-images.githubusercontent.com/83539129/163026211-898baf8f-4cb9-4aa9-80ad-c04c5a9bfbb3.png">
+<img style="border-radius: 8px; float: left; width: 100px; margin: 3px;" alt="Ashish" src="https://user-images.githubusercontent.com/83539129/163026211-898baf8f-4cb9-4aa9-80ad-c04c5a9bfbb3.png">
 
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
 
