@@ -41,7 +41,7 @@ No not at all! The intent of the program is to help you learn Cloud Skills. You 
  Total duration – 12 weeks (Technical sessions – 8 weeks and Behavioural sessions – 4 weeks)
 
 ### *What is the time zone for the weekly sessions?*
- The sessions are run at 10:00 AM Central European Summer Time (CEST) every Saturday. It will also be recorded for those who cannot attend online sessions.
+ The sessions are run at 10:00 AM Central European Time (CST) every Saturday. It will also be recorded for those who cannot attend online sessions.
 
 ### *Do I get a AWS certification exam discount voucher by joining the program?*
  No
