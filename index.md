@@ -52,7 +52,7 @@ Alex is a Solutions Architect at AWS based in Germany specialising on prototypin
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Ashish" src="assets/img/ash.png">
 
-Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by brining real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
+Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by bringing real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
 
 ### [Christelle Vinot](https://www.linkedin.com/in/christelle-vinot-4b5a2055/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Christelle" src="assets/img/chris.png">
