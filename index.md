@@ -36,11 +36,24 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-| Starting Date            |             Topic                | Duration  |
-|--------------------------|:--------------------------------:|----------:|
-| 07.05.2022 10:00 AM CEST |  Stage 1 - Technical Track       | 8 weeks   |
-| 02.07.2022 10:00 AM CEST |  Stage 2 - Behavioral Track      | 4 weeks   |
+#### Stage 1: Technical Track – 8 weeks
 
+| Starting Date            |             Topic               | Presenter | Behavioral topics                 | Presenters
+|--------------------------|:--------------------------------|:----------|:----------------------------------|:---------------------|
+| 07.05.2022 10:00 AM CEST | Introduction to AWS  Cloud      |Ashish     | Q&A with SAs                      | Alex, Chris          |
+| 13.05.2022 10:00 AM CEST | Amazon S3                       |Ashish     | IoT and S3, S3 Ref. Architectures | Jamila, Alex, Chris  |
+| 21.05.2022 10:00 AM CEST | Amazon EC2                      |Ashish     |  TBD                              |  TBD                 | 
+| 28.05.2022 10:00 AM CEST | Amazon VPC                      |Ashish     |  TBD                              |  TBD                 | 
+| 04.06.2022 10:00 AM CEST | Amazon IAM                      |Ashish     |  TBD                              |  TBD                 | 
+| 11.06.2022 10:00 AM CEST | Database Services               |Ashish     |  TBD                              |  TBD                 | 
+| 18.06.2022 10:00 AM CEST | Monitoring and Autoscaling      |Ashish     |  TBD                              |  TBD                 | 
+| 25.06.2022 10:00 AM CEST | Microservices and Serverless    |Ashish     |  TBD                              |  TBD                 | 
+
+#### Stage 2: Behavioral Track – 4 weeks
+
+| Starting Date            |             Topic               |
+|--------------------------|:-------------------------------:|
+| 02.07.2022 10:00 AM CEST | TBD                             |
 
 ## [Meet the team](https://become-a-solutions-architect.github.io/)
 
