@@ -44,7 +44,7 @@ Visit FAQ [here](faq.md)
 | 13.05.2022 10:00 AM CEST | Amazon S3                       |Ashish     | IoT and S3, S3 Ref. Architectures | Jamila, Alex, Chris  |
 | 21.05.2022 10:00 AM CEST | Amazon EC2                      |Ashish     |  TBD                              |  TBD                 | 
 | 28.05.2022 10:00 AM CEST | Amazon VPC                      |Ashish     |  TBD                              |  TBD                 | 
-| 04.06.2022 10:00 AM CEST | Amazon IAM                      |Ashish     |  TBD                              |  TBD                 | 
+| 04.06.2022 10:00 AM CEST | AWS IAM                         |Ashish     |  TBD                              |  TBD                 | 
 | 11.06.2022 10:00 AM CEST | Database Services               |Ashish     |  TBD                              |  TBD                 | 
 | 18.06.2022 10:00 AM CEST | Monitoring and Autoscaling      |Ashish     |  TBD                              |  TBD                 | 
 | 25.06.2022 10:00 AM CEST | Microservices and Serverless    |Ashish     |  TBD                              |  TBD                 | 
