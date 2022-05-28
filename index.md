@@ -42,8 +42,8 @@ Visit FAQ [here](faq.md)
 |-------------------------|:--------------------------------|:----------|:----------------------------------|:---------------------|
 | 07.05.2022 08:00 AM GMT | Introduction to AWS  Cloud      |Ashish     | Q&A with SAs                      | Alex, Chris          |
 | 13.05.2022 08:00 AM GMT | Amazon S3                       |Ashish     | IoT and S3, S3 Ref. Architectures | Jamila, Alex, Chris  |
-| 21.05.2022 08:00 AM GMT | Amazon EC2                      |Ashish     |  TBD                              |  TBD                 | 
-| 28.05.2022 08:00 AM GMT | Amazon VPC                      |Ashish     |  TBD                              |  TBD                 | 
+| 21.05.2022 08:00 AM GMT | Amazon EC2                      |Ashish     |  Amazon EC2 Use Case, How to transition from non tech domain to Cloud?              | Chris, Prasad, Jamila                 | 
+| 28.05.2022 08:00 AM GMT | Amazon VPC                      |Ashish     |  Amazon VPC Use Case, How to transition from tech domain to Cloud? |  Alex, Prasad, Chris                 | 
 | 04.06.2022 08:00 AM GMT | AWS IAM                         |Ashish     |  TBD                              |  TBD                 | 
 | 11.06.2022 08:00 AM GMT | Database Services               |Ashish     |  TBD                              |  TBD                 | 
 | 18.06.2022 08:00 AM GMT | Monitoring and Autoscaling      |Ashish     |  TBD                              |  TBD                 | 
