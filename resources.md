@@ -4,9 +4,7 @@
 
 [*Week 3 (21 May 2022 – 27 May 2022)*](resources/3.md)
 
-<!--- 
 [*Week 4 (28 May 2022 – 3 June 2022)*](resources/4.md)
--->
 
 <!--- 
 [*Week 5 (4 June 2022 – 10 June 2022)*](resources/4.md)
