@@ -1,0 +1,45 @@
+-------------------------------------------------------------------------------------------------------------
+Userdata Script to install Cloudwatch Agent
+-------------------------------------------------------------------------------------------------------------
+#!/bin/bash
+yum update -y
+sudo yum install -y perl-Switch perl-DateTime perl-Sys-Syslog perl-LWP-Protocol-https perl-Digest-SHA.x86_64
+cd /home/ec2-user/
+curl https://aws-cloudwatch.s3.amazonaws.com/downloads/CloudWatchMonitoringScripts-1.2.2.zip -O
+unzip CloudWatchMonitoringScripts-1.2.2.zip
+rm -rf CloudWatchMonitoringScripts-1.2.2.zip
+-------------------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------
+On the console - Send metrics to Cloudwatch
+-------------------------------------------------------------------------------------------------------------
+Verify the access to Amazon Cloudwatch
+/home/ec2-user/aws-scripts-mon/mon-put-instance-data.pl --mem-util --verify --verbose
+
+Send Metrics
+
+/home/ec2-user/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail
+
+Automating through Cronjob
+sudo su
+vi /etc/crontab
+*/1 * * * * root /home/ec2-user/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail
+-------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------
+Autoscaling - Generating Load
+-------------------------------------------------------------------------------------------------------------
+
+sudo amazon-linux-extras install epel
+
+sudo yum -y install stress
+
+uptime
+
+sudo stress --cpu 8 -v --timeout 10000s
+
+
+
