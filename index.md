@@ -46,7 +46,7 @@ Visit FAQ [here](faq.md)
 | 28.05.2022  | Amazon VPC                      |Ashish     |  Amazon VPC Use Case, How to transition from tech domain to Cloud? |  Alex, Prasad, Chris                 | 
 | 04.06.2022 | AWS IAM                         |Ashish     |  Architecting for Security,  Create your own 6 months cloud learning plan       |  Alex, Prasad        | 
 | 11.06.2022 | Database on AWS                 |Ashish     |  SQL Vs NoSQL data modelling by example, Tips to get your resume shortlisted at Amazon                               |  James, Prasad       | 
-| 18.06.2022 | Monitoring and Autoscaling      |Ashish     |  TBD                              |  TBD                 | 
+| 18.06.2022 | Monitoring and Autoscaling      |Ashish     |  The Three Pillars of Observability,  ‘STAR’ Technique to Answer Behavioural Interview Questions |  James, Jamila                 | 
 | 25.06.2022| Microservices and Serverless    |Ashish     |  TBD                              |  TBD                 | 
 
 #### Stage 2: Behavioral Track – 4 weeks
