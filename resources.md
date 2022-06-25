@@ -12,6 +12,20 @@
 
 [*Week 7 (18 June 2022 – 24 June 2022)*](resources/7.md)
 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
 
 <!--- 
 [*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
