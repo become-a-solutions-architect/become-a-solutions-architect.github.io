@@ -10,20 +10,15 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
-## At a high level, the program is comprised of 2 stages:
+## Session Format:
 
-Stage 1: Technical Track
+For the first 8 weeks each session will consist of 3 parts:
 
-- Registration will be open to all interested candidates
-- Regular online sessions will be set up every Saturday
-- 6 to 8 hours of additional online learning activities each week to complete at your own time
+- 45 minutes Technical
+- 30 minutes Serverless Specialist Track
+- 15 minutes Behavioural
 
-Stage 2 : Behavioural Track
-
-- The focus will be on behavioural aspects to crack interviews at top companies. 
-- Up to 20 people will be selected for 1:1 mentoring with AWS experts to prep you for next level in your career.
-- The selection process will depend on number of factors, including (but not limited to) assignment completion, number of registrations in the program, active attendance in previous sessions, certification exam registration, online quiz, 1:1 interview etc.
-
+For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
 ### Interested? Register now!
 
