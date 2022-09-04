@@ -60,6 +60,11 @@ Jamila Jamilova is a Solutions Architect helping Manufacturing and Industrials c
 
 Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
 
+### [James Eastham](https://www.linkedin.com/in/james-eastham/)
+<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/james.jpeg">
+
+James Eastham is a Cloud Infrastructure Architect for AWS Professional Services based out of the UK. His main area of interest is helping people build serverless applications using .NET on AWS. He is an active membeer of both the Serverless and Microsoft Technical Field Communities. Outside of work, James spends a lot of time out in the hills with his 3 year old Labrador or training for an ultra-endurance run or cycling event.
+
 
 
 All there to guide you.
