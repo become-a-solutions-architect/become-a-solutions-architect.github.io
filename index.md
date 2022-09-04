@@ -6,7 +6,7 @@ Many people reach out to us to get started on learning AWS to become Solutions A
 In this free pilot program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
 ## Prerequisites:
-- Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week 
+- Time commitement - 90 minutes each Saturday and 6 to 8 hours spread over the week 
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
