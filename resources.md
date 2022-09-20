@@ -1,3 +1,5 @@
+## Season 1
+
 [*Week 1 (7 May 2022 – 13 May 2022)*](resources/1.md)
 
 [*Week 2 (14 May 2022 – 20 May 2022)*](resources/2.md)
@@ -18,7 +20,9 @@
 
 [*Week 10 (09 July 2022 – 15 July 2022)*](resources/10.md)
 
+## Season 2
 
+[*Week 1 (17 September 2022)*](resources/season-2/1.md)
 <!--- 
 [*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
 -->
