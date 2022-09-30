@@ -1,4 +1,22 @@
-## Season 1
+## Season 2 (Sep-Oct-Nov 2022)
+
+[*Week 1 (17 September 2022)*](resources/season-2/1.md)
+ 
+[*Week 2 (24 September 2022)*](resources/season-2/2.md)
+
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
+
+<!--- 
+[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
+-->
+## Season 1 (May-Jun-Jul 2022)
 
 [*Week 1 (7 May 2022 – 13 May 2022)*](resources/1.md)
 
@@ -19,22 +37,3 @@
 [*Week 9 (02 July 2022 – 08 July 2022)*](resources/9.md)
 
 [*Week 10 (09 July 2022 – 15 July 2022)*](resources/10.md)
-
-## Season 2
-
-[*Week 1 (17 September 2022)*](resources/season-2/1.md)
- 
-[*Week 2 (24 September 2022)*](resources/season-2/2.md)
-
-
-<!--- 
-[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
--->
-
-<!--- 
-[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
--->
-
-<!--- 
-[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
--->
