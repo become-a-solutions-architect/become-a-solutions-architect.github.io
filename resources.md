@@ -23,9 +23,9 @@
 ## Season 2
 
 [*Week 1 (17 September 2022)*](resources/season-2/1.md)
-<!--- 
-[*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
--->
+ 
+[*Week 2 (24 September 2022)*](resources/season-2/2.md)
+
 
 <!--- 
 [*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
