@@ -4,6 +4,13 @@
  
 [*Week 2 (24 September 2022)*](resources/season-2/2.md)
 
+[*Week 3 (01 October 2022)*](resources/season-2/3.md)
+
+[*Week 4 (08 October 2022)*](resources/season-2/4.md)
+
+[*Week 5 (15 October 2022)*](resources/season-2/5.md)
+
+[*Week 6 (22 October 2022)*](resources/season-2/6.md)
 
 <!--- 
 [*Week 8 (25 June 2022 – 1 July 2022)*](resources/8.md)
