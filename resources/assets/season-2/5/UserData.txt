@@ -1,0 +1,15 @@
+#!/bin/bash
+yum update -y
+yum install httpd -y
+service httpd start
+chkconfig httpd on
+cd /var/www/html
+
+echo "<html><body><h2><p><font color="red">IP Address</font></p>" > index.html
+curl http://169.254.169.254/latest/meta-data/public-ipv4 >> index.html
+echo "<br />"
+
+echo "<br /> <br /> <p><font color="blue">Availablity Zone</font></p>" >> index.html
+curl http://169.254.169.254/latest/meta-data/placement/availability-zone >> index.html
+
+echo "</h2></body></html>" >> index.html
