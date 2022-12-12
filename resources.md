@@ -16,6 +16,10 @@
 
 [*Week 8 (05 November 2022)*](resources/season-2/8.md)
 
+[*Week 9 (12 November 2022)*](resources/season-2/9.md)
+
+[*Week 8 (10 December 2022)*](resources/season-2/10.md)
+
 ## Season 1 (May-Jun-Jul 2022)
 
 [*Week 1 (7 May 2022 – 13 May 2022)*](resources/1.md)
