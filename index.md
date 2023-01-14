@@ -23,9 +23,9 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 ## Tentative Agenda: Week 1 to Week 8
 
 
-| Week        	| Technical Track (by Ashish)   | Specialist Track - Networking (by Ashish)       | Behavioural Track 	        |
-| :---        	|    :----:  			              |    :----:  	 				                            |   	---: 		                |
-| Week 1 (11-Feb)	| Introduction to Cloud 	    | Back to basics - OSI Model / IP Addressing      | Topic - Presenter          	|
+| Week          	| Technical Track             | Specialist Track - Networking                   | Behavioural Track 	        |
+| :---        	  |    :----:  			            |    :----:  	 				                            |   	---: 		                |
+| Week 1 (11-Feb)	| Introduction to Cloud 	    | The binary choice - OSI Model / IP Addressing   | Topic - Presenter          	|
 | Week 2 (18-Feb)	| Amazon S3			              | It's all connected  - Amazon VPC	    	        | Topic - Presenter           |
 | Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL / Security Group           | Topic - Presenter           |
 | Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Topic - Presenter           |
