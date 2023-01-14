@@ -6,7 +6,7 @@ Many people reach out to us to get started on learning AWS to become Solutions A
 In this free pilot program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
 ## Prerequisites:
-- Time commitement - 90 minutes each Saturday and 6 to 8 hours spread over the week 
+- Time commitement - 120 minutes each Saturday and 6 to 8 hours spread over the week 
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
@@ -15,8 +15,8 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 For the first 8 weeks each session will consist of 3 parts:
 
 - 45 minutes Technical
-- 30 minutes Serverless Specialist Track
-- 15 minutes Behavioural
+- 45 minutes Networking Specialist Track
+- 30 minutes Behavioural
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
@@ -44,11 +44,6 @@ Alex is a Solutions Architect at AWS based in Germany specialising on prototypin
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Ashish" src="assets/img/ash.png">
 
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by bringing real world examples to his students. He also collaborates in the creation of new courses such as “Building Data Lake on AWS”, “AWS Cloud for Finance Professionals”, “Security Governance at Scale”.
-
-### [Christelle Vinot](https://www.linkedin.com/in/christelle-vinot-4b5a2055/)
-<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Christelle" src="assets/img/chris.png">
-
-Christelle is a Solution Architect at AWS based in London, UK. She shares interest in sustainability transformation and loves mentoring and coaching others at personal and professional level. She works with Siemens Globally and helps customers innovate and solve business problems using AWS Services. Shehas background in Networking, storage and on premises datacenters.  Outside of work, Christelle enjoys hiking, running and is a volunteer with Age UK.  
 
 ### [Jamila Jamilova](https://www.linkedin.com/in/jjamilova/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Jamila" src="assets/img/jamila.png">
