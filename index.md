@@ -20,6 +20,16 @@ For the first 8 weeks each session will consist of 3 parts:
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
+## Tentative Agenda:
+
+
+| Week        	| Technical Track  		        | Networking Track 				                        | Behavioural Track 	        |
+| :---        	|    :----:  			            |    :----:  	 				                            |   	---: 		                |
+| Week 1 11-Feb	| Introduction to Cloud 	    | Baisc Networking - OSI Model / IP Addressing    | Topic - Presenter          	|
+| Week 2 18-Feb	| Amazon S3			              | Networking in AWS - Amazon VPC	    	          | Topic - Presenter           |
+
+
+
 ### Interested? Register now!
 
 Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeeB4n6quuKo6ZEPe7vVkJCOpkcSKI5oQJPDMM1myJD7bivMg/viewform) and the team will come back to you with futher steps.
