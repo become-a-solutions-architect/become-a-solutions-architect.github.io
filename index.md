@@ -15,18 +15,35 @@ In this free pilot program, we will focus on technical and behavioural concepts 
 For the first 8 weeks each session will consist of 3 parts:
 
 - 45 minutes Technical
-- 45 minutes Networking Specialist Track
+- 45 minutes Specialist Track - Networking 
 - 30 minutes Behavioural
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
-## Tentative Agenda:
+## Tentative Agenda: Week 1 to Week 8
 
 
-| Week        	| Technical Track  		        | Networking Track 				                        | Behavioural Track 	        |
-| :---        	|    :----:  			            |    :----:  	 				                            |   	---: 		                |
-| Week 1 11-Feb	| Introduction to Cloud 	    | Baisc Networking - OSI Model / IP Addressing    | Topic - Presenter          	|
-| Week 2 18-Feb	| Amazon S3			              | Networking in AWS - Amazon VPC	    	          | Topic - Presenter           |
+| Week        	| Technical Track (by Ashish)   | Specialist Track - Networking (by Ashish)       | Behavioural Track 	        |
+| :---        	|    :----:  			              |    :----:  	 				                            |   	---: 		                |
+| Week 1 (11-Feb)	| Introduction to Cloud 	    | Back to basics - OSI Model / IP Addressing      | Topic - Presenter          	|
+| Week 2 (18-Feb)	| Amazon S3			              | It's all connected  - Amazon VPC	    	        | Topic - Presenter           |
+| Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL / Security Group           | Topic - Presenter           |
+| Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Topic - Presenter           |
+| Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering / Transit Gateway    | Topic - Presenter           |
+| Week 6 (18-Mar)	| Amazon S3			              | What's in a name? - Route 53 / DNS Resolver     | Topic - Presenter           |
+| Week 7 (25-Mar)	| Amazon Cloduwatch           | The tool box - Flow Logs / Reachability Analyer | Topic - Presenter           |
+| Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB / NLB / GWLB	              | Topic - Presenter           |
+
+## Tentative Agenda: Week 9 to Week 12
+
+| Week        	    | Topic 1  | Topic 2  | Topic 3 |
+| :---        	    |    :----:  			            |    :----:  	 				                            |   	---: 		                |
+| Week 9  (08-Apr)	  | | | Topic - Presenter           |
+| Week 10 (15-Apr)	  | | | Topic - Presenter           |
+| Week 11 (22-Apr)	  | | | Topic - Presenter           |
+| Week 12 (29-Apr)	  | | | Topic - Presenter           |
+
+
 
 
 
@@ -41,7 +58,7 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-Check out our [Twitch channel](https://www.twitch.tv/besaprogram) to find our schedule. We broadcast on Saturdays at 2pm GMT.
+Check out our [Twitch channel](https://www.twitch.tv/besaprogram) to find our schedule. We broadcast on Saturdays at 9 AM UK Time.
 
 ## [Meet the team](https://become-a-solutions-architect.github.io/)
 
