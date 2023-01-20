@@ -16,7 +16,7 @@ For the first 8 weeks each session will consist of 3 parts:
 
 - 45 minutes Technical
 - 45 minutes Specialist Track - Networking 
-- 30 minutes Behavioural
+- 30 minutes Hands On
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
