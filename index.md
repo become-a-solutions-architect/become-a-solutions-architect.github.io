@@ -3,7 +3,7 @@
 This is a unique opportunity for you to be mentored by AWS Solution Architects to acquire skills to become a Solutions Architect.
 
 Many people reach out to us to get started on learning AWS to become Solutions Architect, or, simply need help with achieving certifications for career progression.
-In this free pilot program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
+In this free program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
 ## Prerequisites:
 - Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week for additional learning
