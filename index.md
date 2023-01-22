@@ -49,7 +49,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 ### Interested? Register now!
 
-Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeeB4n6quuKo6ZEPe7vVkJCOpkcSKI5oQJPDMM1myJD7bivMg/viewform) and the team will come back to you with futher steps.
+Fill the form [here](https://forms.gle/RLDXuy98nmie6Aw88) and the team will come back to you with futher steps.
 
 
 ### FAQ
