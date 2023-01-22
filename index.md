@@ -38,10 +38,10 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week        	     | Topic 1                      | Topic 2                     | Topic 3                     |
 | :---        	     |    :----:  			             |    :----:  	 				       |   	---: 		                 |
-| Week 9  (08-Apr)	 |  TBD                         | TBD                         | TTBD           |
-| Week 10 (15-Apr)	 |  TBD                         | TBD                         | TTBD           |
-| Week 11 (22-Apr)	 |  TBD                         | TBD                         | TTBD           |
-| Week 12 (29-Apr)	 |  TBD                         | TBD                         | TTBD           |
+| Week 9  (08-Apr)	 |  TBD                         | TBD                         | TBD            |
+| Week 10 (15-Apr)	 |  TBD                         | TBD                         | TBD            |
+| Week 11 (22-Apr)	 |  TBD                         | TBD                         | TBD            |
+| Week 12 (29-Apr)	 |  TBD                         | TBD                         | TBD            |
 
 
 
