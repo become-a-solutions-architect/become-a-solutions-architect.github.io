@@ -31,7 +31,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Activity - Presenter          	|
 | Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering / Transit Gateway    | Activity - Presenter          	|
 | Week 6 (18-Mar)	| Amazon DynamoDB             | What's in a name? - Route 53 / DNS Resolver     | Activity - Presenter          	|
-| Week 7 (25-Mar)	| Amazon Cloduwatch           | The tool box - Flow Logs / Reachability Analyer | Activity - Presenter          	|
+| Week 7 (25-Mar)	| Amazon Cloudwatch           | The tool box - Flow Logs / Reachability Analyer | Activity - Presenter          	|
 | Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB / NLB / GWLB	              | Activity - Presenter          	|
 
 ## Tentative Agenda: Week 9 to Week 12
