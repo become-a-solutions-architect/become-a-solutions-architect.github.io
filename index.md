@@ -25,23 +25,23 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week          	| Technical Track             | Specialist Track - Networking                   | Hands On	        |
 | :---        	  |    :----:  			            |    :----:  	 				                            |   	---: 		                |
-| Week 1 (11-Feb)	| Introduction to Cloud 	    | The binary choice - OSI Model / IP Addressing   | Activity - Presenter          	|
-| Week 2 (18-Feb)	| Amazon S3			              | It's all connected  - Amazon VPC	    	        | Activity - Presenter          	|
-| Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL / Security Group           | Activity - Presenter          	|
-| Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Activity - Presenter          	|
-| Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering / Transit Gateway    | Activity - Presenter          	|
-| Week 6 (18-Mar)	| Amazon DynamoDB             | What's in a name? - Route 53 / DNS Resolver     | Activity - Presenter          	|
-| Week 7 (25-Mar)	| Amazon Cloudwatch           | The tool box - Flow Logs / Reachability Analyer | Activity - Presenter          	|
-| Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB / NLB / GWLB	              | Activity - Presenter          	|
+| Week 1 (11-Feb)	| Introduction to Cloud 	    | The binary choice - OSI Model / IP Addressing   | Activity           	|
+| Week 2 (18-Feb)	| Amazon S3			              | It's all connected  - Amazon VPC	    	        | Activity           	|
+| Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL / Security Group           | Activity           	|
+| Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Activity           	|
+| Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering / Transit Gateway    | Activity           	|
+| Week 6 (18-Mar)	| Amazon DynamoDB             | What's in a name? - Route 53 / DNS Resolver     | Activity           	|
+| Week 7 (25-Mar)	| Amazon Cloudwatch           | The tool box - Flow Logs / Reachability Analyer | Activity           	|
+| Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB / NLB / GWLB	              | Activity           	|
 
 ## Tentative Agenda: Week 9 to Week 12
 
-| Week        	      | Topic 1                      | Topic 2                     | Topic 3                     |
-| :---        	      |    :----:  			             |    :----:  	 				       |   	---: 		                 |
-| Week 9  (08-Apr)	  |  Topic - Presenter           | Topic - Presenter           | Topic - Presenter           |
-| Week 10 (15-Apr)	  |  Topic - Presenter           | Topic - Presenter           | Topic - Presenter           |
-| Week 11 (22-Apr)	  |  Topic - Presenter           | Topic - Presenter           | Topic - Presenter           |
-| Week 12 (29-Apr)	  |  Topic - Presenter           | Topic - Presenter           | Topic - Presenter           |
+| Week        	     | Topic 1                      | Topic 2                     | Topic 3                     |
+| :---        	     |    :----:  			             |    :----:  	 				       |   	---: 		                 |
+| Week 9  (08-Apr)	 |  TBD                         | TBD                         | TTBD           |
+| Week 10 (15-Apr)	 |  TBD                         | TBD                         | TTBD           |
+| Week 11 (22-Apr)	 |  TBD                         | TBD                         | TTBD           |
+| Week 12 (29-Apr)	 |  TBD                         | TBD                         | TTBD           |
 
 
 
