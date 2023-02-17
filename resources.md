@@ -1,4 +1,8 @@
-## Season 2 (Sep-Oct-Nov 2022)
+## Batch 03 (Feb-Mar-Apr 2023)
+
+[*Week 1 (11 February 2023)*](resources/B03/W1/1.md)
+
+## Batch 02 (Sep-Oct-Nov 2022)
 
 [*Week 1 (17 September 2022)*](resources/season-2/1.md)
  
@@ -20,7 +24,7 @@
 
 [*Week 8 (10 December 2022)*](resources/season-2/10.md)
 
-## Season 1 (May-Jun-Jul 2022)
+## Batch 01 (May-Jun-Jul 2022)
 
 [*Week 1 (7 May 2022 – 13 May 2022)*](resources/1.md)
 
