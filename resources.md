@@ -6,6 +6,7 @@
 
 [*Week 3 (25 February 2023)*](resources/assets/B03/W3/3.md)
 
+[*Week 4 (04 March 2023)*](resources/assets/B03/W4/4.md)
 
 
 ## Batch 02 (Sep-Oct-Nov 2022)
