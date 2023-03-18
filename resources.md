@@ -10,6 +10,8 @@
 
 [*Week 5 (11 March 2023)*](resources/assets/B03/W5/5.md)
 
+[*Week 6 (18 March 2023)*](resources/assets/B03/W6/6.md)
+
 
 ## Batch 02 (Sep-Oct-Nov 2022)
 
