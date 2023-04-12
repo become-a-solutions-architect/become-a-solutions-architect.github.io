@@ -20,7 +20,7 @@ For the first 8 weeks each session will consist of 3 parts:
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
-## Tentative Agenda: Week 1 to Week 8
+## Agenda: Week 1 to Week 8
 
 
 | Week          	| Technical Track             | Specialist Track - Networking                   | Hands On	        |
@@ -34,7 +34,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 7 (25-Mar)	| Amazon Cloudwatch           | The tool box - Flow Logs & Reachability Analyer | Activity           	|
 | Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB, NLB & GWLB	              | Activity           	|
 
-## Tentative Agenda: Week 9 to Week 12
+## Agenda: Week 9 to Week 12
 
 | Week        	     | Topic 1                      | Topic 2                     | 
 | :---        	     |    :----:  			             |    :----:  	 				       |
