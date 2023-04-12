@@ -38,9 +38,9 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week        	     | Topic 1                      | Topic 2                     | Topic 3                     |
 | :---        	     |    :----:  			             |    :----:  	 				       |   	---: 		                 |
-| Week 9  (08-Apr)	 |  TBD                         | TBD                         | TBD            |
-| Week 10 (15-Apr)	 |  TBD                         | TBD                         | TBD            |
-| Week 11 (22-Apr)	 |  TBD                         | TBD                         | TBD            |
+| Week 9  (08-Apr)	 | Amazon ECS Demo                      | Guest Speaker - Sanchit Jain    https://www.linkedin.com/in/sanchitdilipjain/                 | TBD            |
+| Week 10 (15-Apr)	 |  Guest Speaker - Sammy Cheung https://www.linkedin.com/in/sammy-cheung/ | Guest Speaker - Holly Lee https://www.hollylee.co/                   | TBD            |
+| Week 11 (22-Apr)	 |  Guest Speaker - Neeraja Ganesh https://www.linkedin.com/in/neeraja-ganesh/                        | TBD                         | TBD            |
 | Week 12 (29-Apr)	 |  TBD                         | TBD                         | TBD            |
 
 
