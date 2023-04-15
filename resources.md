@@ -16,6 +16,8 @@
 
 [*Week 8 (01 April 2023)*](resources/assets/B03/W8/8.md)
 
+[*Week 9 (08 April 2023)*](resources/assets/B03/W09/9.md)
+
 
 ## Batch 02 (Sep-Oct-Nov 2022)
 
