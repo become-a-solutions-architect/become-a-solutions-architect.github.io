@@ -27,12 +27,12 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | :---        	  |    :----:  			            |    :----:  	 				                            |   	---: 		                |
 | Week 1 (11-Feb)	| [Introduction to Cloud](https://youtu.be/gtbEfQH8FIw) 	    | [The binary choice - OSI Model & IP Addressing](https://youtu.be/eZzgtZbOW6Q)    | [Activity](https://youtu.be/x5r4UGyR5zo)           	|
 | Week 2 (18-Feb)	| [Amazon S3](https://youtu.be/Sw6B2deMPmg)			              | [It's all connected  - Amazon VPC](https://youtu.be/1WNMB38KtiM)	    	        | [Activity](https://youtu.be/jYUm5itbDNA)           	|
-| Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL & Security Group           | Activity           	|
-| Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Activity           	|
-| Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering & Transit Gateway    | Activity           	|
-| Week 6 (18-Mar)	| Amazon DynamoDB             | What's in a name? - Route 53 & DNS Resolver     | Activity           	|
-| Week 7 (25-Mar)	| Amazon Cloudwatch           | The tool box - Flow Logs & Reachability Analyer | Activity           	|
-| Week 8 (01-Apr)	| Amazon EC2 Auto Scaling     | Shed the Load  - ALB, NLB & GWLB	              | Activity           	|
+| Week 3 (25-Feb)	| [Amazon EC2](https://youtu.be/ljVD2QjhwtE)                  | [Hold the door - NACL & Security Group](https://youtu.be/BqqksZ2PECI)           | [Activity](https://youtu.be/bc1srPi8AXY)           	|
+| Week 4 (04-Mar)	| [AWS IAM](https://youtu.be/o3-_UVqO80U)                     | [Cloud and beyond - VPN and Direct Connect](https://youtu.be/FXwjbQYpdDA)       | [Activity](https://youtu.be/OoX_AJK1JA4)           	|
+| Week 5 (11-Mar) | [Amazon RDS](https://www.youtube.com/watch?v=y6sZMHl6vFY)   | [Peer to Peer - VPC Peering & Transit Gateway](https://www.youtube.com/watch?v=HQkDeV9OcgI)    | [Activity](https://youtu.be/IAsyh2ANouM)           	|
+| Week 6 (18-Mar)	| [Amazon DynamoDB](https://youtu.be/o1zMy0n5oCM)             | [What's in a name? - Route 53 & DNS Resolver](https://youtu.be/8Je0MII1AII)     | [Activity](https://youtu.be/MoGe0v1DAgU)           	|
+| Week 7 (25-Mar)	| [Amazon Cloudwatch](https://youtu.be/wlt3icY33A4)           | [The tool box - Flow Logs & Reachability Analyer](https://youtu.be/kvLnVuv03s4) | [Activity](https://youtu.be/p5OLRW910zA)           	|
+| Week 8 (01-Apr)	| [Amazon EC2 Auto Scaling](https://youtu.be/dXajxD1LYBM)     | [Shed the Load  - ALB, NLB & GWLB](https://youtu.be/7JPnpLdDx24)	              | 
 
 ## Agenda: Week 9 to Week 12
 
