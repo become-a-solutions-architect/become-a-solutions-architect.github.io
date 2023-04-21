@@ -20,7 +20,7 @@ For the first 8 weeks each session will consist of 3 parts:
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
-## Agenda: Week 1 to Week  8
+## Agenda: Week 1 to Week 8
 
 
 | Week          	| Technical Track                                             | Specialist Track - Networking                   | Hands On	        |
