@@ -23,10 +23,10 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 ## Agenda: Week 1 to Week 8
 
 
-| Week          	| Technical Track             | Specialist Track - Networking                   | Hands On	        |
+| Week          	| Technical Track                                             | Specialist Track - Networking                   | Hands On	        |
 | :---        	  |    :----:  			            |    :----:  	 				                            |   	---: 		                |
-| Week 1 (11-Feb)	| Introduction to Cloud 	    | The binary choice - OSI Model & IP Addressing   | Activity           	|
-| Week 2 (18-Feb)	| Amazon S3			              | It's all connected  - Amazon VPC	    	        | Activity           	|
+| Week 1 (11-Feb)	| [Introduction to Cloud](https://youtu.be/gtbEfQH8FIw) 	    | [The binary choice - OSI Model & IP Addressing](https://youtu.be/eZzgtZbOW6Q)    | [Activity](https://youtu.be/x5r4UGyR5zo)           	|
+| Week 2 (18-Feb)	| [Amazon S3](https://youtu.be/Sw6B2deMPmg)			              | [It's all connected  - Amazon VPC](https://youtu.be/1WNMB38KtiM)	    	        | [Activity](https://youtu.be/jYUm5itbDNA)           	|
 | Week 3 (25-Feb)	| Amazon EC2                  | Hold the door - NACL & Security Group           | Activity           	|
 | Week 4 (04-Mar)	| AWS IAM                     | Cloud and beyond - VPN and Direct Connect       | Activity           	|
 | Week 5 (11-Mar) | Amazon RDS   	              | Peer to Peer - VPC Peering & Transit Gateway    | Activity           	|
@@ -38,8 +38,8 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week        	     | Topic 1                              | Topic 2                     |  Topic 3                  |
 | :---        	     |    :----:  			                    |    :----:  	 				        |  :----:  	 				        |
-| Week 9  (08-Apr)	 | Amazon ECS Demo                      | [Guest Speaker - Sanchit Jain](https://www.linkedin.com/in/sanchitdilipjain/)                 |
-| Week 10 (15-Apr)	 |  [Guest Speaker - Sammy Cheung](https://www.linkedin.com/in/sammy-cheung/) | [Guest Speaker - Holly Lee](https://www.hollylee.co/)   |
+| Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [Guest Speaker - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
+| Week 10 (15-Apr)	 |  [Guest Speaker - Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Guest Speaker - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
 | Week 11 (22-Apr)	 |  [Guest Speaker - Neeraja Ganesh](https://www.linkedin.com/in/neeraja-ganesh/) | [Learn by Teaching - James Eastham](https://www.linkedin.com/in/james-eastham/)                | [Guest Speaker - Victory Uchenna](https://www.linkedin.com/in/victory-u-8347259a/) |    
 | Week 12 (29-Apr)	 |  TBD                                 | TBD                         |
 
