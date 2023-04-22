@@ -38,9 +38,9 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week        	     | Topic 1                              | Topic 2                     |  Topic 3                  |
 | :---        	     |    :----:  			                    |    :----:  	 				        |  :----:  	 				        |
-| Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [Guest Speaker - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
-| Week 10 (15-Apr)	 |  [Guest Speaker - Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Guest Speaker - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
-| Week 11 (22-Apr)	 |  [Guest Session - Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Guest Session - Learn by Teaching - James Eastham](https://youtu.be/LFNIYqTjucU)                | [Guest Session - Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
+| Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [My career journey - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
+| Week 10 (15-Apr)	 |  [How I obtained 70+ cloud certifications- Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Getting hired at FAANG companies - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
+| Week 11 (22-Apr)	 |  [Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Learn by Teaching - James Eastham](https://youtu.be/LFNIYqTjucU)                | [Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
 | Week 12 (29-Apr)	 |  TBD                                 | TBD                         |
 
 
