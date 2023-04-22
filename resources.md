@@ -20,6 +20,7 @@
 
 [*Week 10 (15 April 2023)*](resources/assets/B03/W10/10.md)
 
+[*Week 11 (22 April 2023)*](resources/assets/B03/W11/11.md)
 
 ## Batch 02 (Sep-Oct-Nov 2022)
 
