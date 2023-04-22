@@ -40,7 +40,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | :---        	     |    :----:  			                    |    :----:  	 				        |  :----:  	 				        |
 | Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [Guest Speaker - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
 | Week 10 (15-Apr)	 |  [Guest Speaker - Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Guest Speaker - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
-| Week 11 (22-Apr)	 |  [Guest Speaker - Neeraja Ganesh](https://www.linkedin.com/in/neeraja-ganesh/) | [Learn by Teaching - James Eastham](https://www.linkedin.com/in/james-eastham/)                | [Guest Speaker - Victory Uchenna](https://www.linkedin.com/in/victory-u-8347259a/) |    
+| Week 11 (22-Apr)	 |  [Guest Session - Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Guest Session - Learn by Teaching - James Eastham](https://youtu.be/LFNIYqTjucU)                | [Guest Session - Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
 | Week 12 (29-Apr)	 |  TBD                                 | TBD                         |
 
 
