@@ -41,7 +41,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [My career journey - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
 | Week 10 (15-Apr)	 |  [How I obtained 70+ cloud certifications? - Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Getting hired at FAANG companies - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
 | Week 11 (22-Apr)	 |  [Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Learn by Teaching - James Eastham](https://youtu.be/6ngpN3eP5CI)                | [Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
-| Week 12 (29-Apr)	 |  TBD                                 | TBD                         |
+| Week 12 (29-Apr)	 | [Hacking the Job Hunt - Liz MacKay](https://youtu.be/-2tsJgE7MY0) | [Startups on AWS - Giuseppe and Jamila](https://youtu.be/jg6sR089Wb0)  |
 
 
 
