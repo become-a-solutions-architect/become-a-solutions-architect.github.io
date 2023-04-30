@@ -70,7 +70,7 @@ Alex is a Solutions Architect at AWS based in Germany specialising on prototypin
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Ashish" src="assets/img/ash.png">
 
-Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by bringing real world examples to his students. He has created various technical resources which are listed on this website - Analogies Cloud (https://www.analogiescloud.com).
+Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by bringing real world examples to his students. He has created various technical resources which are listed on this website - [Analogies Cloud](https://www.analogiescloud.com).
 
 ### [Jamila Jamilova](https://www.linkedin.com/in/jjamilova/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Jamila" src="assets/img/jamila.png">
