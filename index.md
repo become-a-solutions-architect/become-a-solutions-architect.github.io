@@ -14,9 +14,9 @@ In this free program, we will focus on technical and behavioural concepts for be
 
 For the first 8 weeks each session will consist of 3 parts:
 
-- 45 minutes Technical
-- 45 minutes Specialist Track - Networking 
-- 30 minutes Hands On
+- 45 minutes Fundamentals Track
+- 45 minutes Specialist Track - Security
+- 30 minutes A day in the life of an Amazonian
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
@@ -25,14 +25,14 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                   |
 | :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                        |
-| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | []()           	| 
-| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [Activity]()           	| []()           	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | [TBD]()           	| 
+| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [Activity]()           	| [TBD]()           	| 
+| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [Activity]()           	| [TBD]()           	| 
 
 ## Agenda: Week 9 to Week 12
 
