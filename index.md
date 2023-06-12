@@ -14,9 +14,9 @@ In this free program, we will focus on technical and behavioural concepts for be
 
 For the first 8 weeks each session will consist of 3 parts:
 
-- 45 minutes Fundamentals Track
-- 45 minutes Specialist Track - Security
-- 30 minutes A day in the life of an Amazonian
+- Fundamentals Track - 45 minutes
+- Specialist Track - Security - 45 minutes 
+- A day in the life of an Amazonian - 30 minutes 
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
