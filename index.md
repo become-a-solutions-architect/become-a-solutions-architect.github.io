@@ -23,8 +23,8 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 ## Agenda: Week 1 to Week 8
 
 
-| Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                   |
-| :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                        |
+| Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                  |
+| :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                       |
 | Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | [TBD]()           	| 
 | Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [TBD]()           	| 
 | Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [TBD]()           	| 
