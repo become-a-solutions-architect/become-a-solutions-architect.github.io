@@ -26,13 +26,13 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                   |
 | :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                        |
 | Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | [TBD]()           	| 
-| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [Activity]()           	| [TBD]()           	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [Activity]()           	| [TBD]()           	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [Activity]()           	| [TBD]()           	| 
-| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [Activity]()           	| [TBD]()           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [Activity]()           	| [TBD]()           	| 
-| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [Activity]()           	| [TBD]()           	| 
-| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [Activity]()           	| [TBD]()           	| 
+| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [TBD]()           	| 
+| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [TBD]()           	| 
+| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [TBD]()           	| 
+| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [TBD]()           	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [TBD]()           	| 
+| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [TBD]()           	| 
+| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [TBD]()           	| 
 
 ## Agenda: Week 9 to Week 12
 
