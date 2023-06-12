@@ -23,25 +23,25 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 ## Agenda: Week 1 to Week 8
 
 
-| Week          	| Technical Track                                             | Specialist Track - Networking                   | Hands On	        |
-| :---        	  |    :----:  			            |    :----:  	 				                            |   	---: 		                |
-| Week 1 (11-Feb)	| [Introduction to Cloud](https://youtu.be/gtbEfQH8FIw) 	    | [The binary choice - OSI Model & IP Addressing](https://youtu.be/eZzgtZbOW6Q)    | [Activity](https://youtu.be/x5r4UGyR5zo)           	|
-| Week 2 (18-Feb)	| [Amazon S3](https://youtu.be/Sw6B2deMPmg)			              | [It's all connected  - Amazon VPC](https://youtu.be/1WNMB38KtiM)	    	        | [Activity](https://youtu.be/jYUm5itbDNA)           	|
-| Week 3 (25-Feb)	| [Amazon EC2](https://youtu.be/ljVD2QjhwtE)                  | [Hold the door - NACL & Security Group](https://youtu.be/BqqksZ2PECI)           | [Activity](https://youtu.be/bc1srPi8AXY)           	|
-| Week 4 (04-Mar)	| [AWS IAM](https://youtu.be/o3-_UVqO80U)                     | [Cloud and beyond - VPN and Direct Connect](https://youtu.be/FXwjbQYpdDA)       | [Activity](https://youtu.be/OoX_AJK1JA4)           	|
-| Week 5 (11-Mar) | [Amazon RDS](https://www.youtube.com/watch?v=y6sZMHl6vFY)   | [Peer to Peer - VPC Peering & Transit Gateway](https://www.youtube.com/watch?v=HQkDeV9OcgI)    | [Activity](https://youtu.be/IAsyh2ANouM)           	|
-| Week 6 (18-Mar)	| [Amazon DynamoDB](https://youtu.be/o1zMy0n5oCM)             | [What's in a name? - Route 53 & DNS Resolver](https://youtu.be/8Je0MII1AII)     | [Activity](https://youtu.be/MoGe0v1DAgU)           	|
-| Week 7 (25-Mar)	| [Amazon Cloudwatch](https://youtu.be/wlt3icY33A4)           | [The tool box - Flow Logs & Reachability Analyer](https://youtu.be/kvLnVuv03s4) | [Activity](https://youtu.be/p5OLRW910zA)           	|
-| Week 8 (01-Apr)	| [Amazon EC2 Auto Scaling](https://youtu.be/dXajxD1LYBM)     | [Shed the Load  - ALB, NLB & GWLB](https://youtu.be/7JPnpLdDx24)	              | 
+| Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                   |
+| :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                        |
+| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | []()           	| 
+| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [Activity]()           	| []()           	| 
+| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
 
 ## Agenda: Week 9 to Week 12
 
 | Week        	     | Topic 1                              | Topic 2                     |  Topic 3                  |
 | :---        	     |    :----:  			                    |    :----:  	 				        |  :----:  	 				        |
-| Week 9  (08-Apr)	 | [Amazon ECS Demo](https://youtu.be/vnD1GgvjMZ4)                    | [My career journey - Sanchit Jain](https://youtu.be/zyaoU782x0U)                 |
-| Week 10 (15-Apr)	 |  [How I obtained 70+ cloud certifications? - Sammy Cheung](https://youtu.be/YttIpsqo2ak) | [Getting hired at FAANG companies - Holly Lee](https://youtu.be/LFNIYqTjucU)   |
-| Week 11 (22-Apr)	 |  [Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Learn by Teaching - James Eastham](https://youtu.be/6ngpN3eP5CI)                | [Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
-| Week 12 (29-Apr)	 | [Hacking the Job Hunt - Liz MacKay](https://youtu.be/-2tsJgE7MY0) | [Startups on AWS - Giuseppe and Jamila](https://youtu.be/jg6sR089Wb0)  |
+| Week 9  (02-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 10 (09-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 11 (16-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
+| Week 12 (23-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
 
 
 
@@ -62,11 +62,6 @@ Check out our [Twitch channel](https://www.twitch.tv/besaprogram) to find our sc
 
 ## [Meet the team](https://become-a-solutions-architect.github.io/)
 
-### [Alex Paramonov](https://www.linkedin.com/in/alexey-paramonov/)
-<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Alex" src="assets/img/alex.png">
-
-Alex is a Solutions Architect at AWS based in Germany specialising on prototyping. He has a passion for using technology to drive innovation with customers on niche projects. Alex has a background in full stack software development, serveless and containers. Besides work he likes spending time with his family, building cool things at home and play video games. 
-
 ### [Ashish Prajapati](https://www.linkedin.com/in/ash-tech/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Ashish" src="assets/img/ash.png">
 
@@ -86,7 +81,6 @@ Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. H
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/james.jpeg">
 
 James Eastham is a Cloud Infrastructure Architect for AWS Professional Services based out of the UK. His main area of interest is helping people build serverless applications using .NET on AWS. He is an active membeer of both the Serverless and Microsoft Technical Field Communities. Outside of work, James spends a lot of time out in the hills with his 3 year old Labrador or training for an ultra-endurance run or cycling event.
-
 
 
 All there to guide you.
