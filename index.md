@@ -20,31 +20,23 @@ For the first 8 weeks each session will consist of 3 parts:
 
 For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
-## Agenda: Week 1 to Week 8
+## Agenda: Week 1 to Week 8 (Technical Track)
 
 
-| Week          	| Foundational Track              | Specialist Track - Security             | A day in the life of an Amazonian                  |
-| :---        	  |    :----:  			                |    :----:  	 				                    |   	---: 		                                       |
-| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()            | [TBD]()           	| 
-| Week 2 (15-Jul)	| [Virtulization]()	              | [TBD]()	      | [TBD]()           	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [TBD]()       | [TBD]()           	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [TBD]()       | [TBD]()           	| 
-| Week 5 (05-Aug) | [DNS]()                         | [TBD]()       | [TBD]()           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [TBD]()       | [TBD]()           	| 
-| Week 7 (19-Aug)	| [Encryption]()                  | [TBD]()       | [TBD]()           	| 
-| Week 8 (26-Aug)	| [TBD]()                         | [TBD]()       | [TBD]()           	| 
+| Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
+| :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
+| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()  | [Engagement Manager]()         	| 
+| Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Technical Trainer]()         	| 
+| Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management]()       | [Developer Advocate]()         	| 
+| Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge]()        | [Training Developer]()        	| 
+| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Support Engineer]()           	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager]()  	| 
+| Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
+| Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Account Manager]()            	| 
 
-## Agenda: Week 9 to Week 12
+## Agenda: Week 9 to Week 12 (Behavioural Track)
 
-| Week        	     | Topic 1                              | Topic 2                     |  Topic 3                  |
-| :---        	     |    :----:  			                    |    :----:  	 				        |  :----:  	 				        |
-| Week 9  (02-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 10 (09-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 11 (16-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
-| Week 12 (23-Sep)	 | [TBD]()                         | [TBD]()       | [Activity]()           	| []()           	| 
-
-
-
+While we finalize the topics for this track, let us know if you have any suggestions
 
 
 ### Interested? Register now!
