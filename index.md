@@ -25,8 +25,8 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
-| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()  | [Engagement Manager]()         	| 
-| Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Technical Trainer]()         	| 
+| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()  | [Abhijeet Patwardhan - Engagement Manager](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
+| Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Julie Elkins - Curriculum Developer](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
 | Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management]()       | [Developer Advocate]()         	| 
 | Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge]()        | [Training Developer]()        	| 
 | Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Support Engineer]()           	| 
