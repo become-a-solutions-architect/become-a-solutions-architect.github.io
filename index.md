@@ -30,7 +30,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management]()       | [Developer Advocate]()         	| 
 | Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge]()        | [Technical Trainer]()        	| 
 | Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Support Engineer]()           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager]()  	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Laura Smith - Technical Account Manager](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Account Manager]()            	| 
 
