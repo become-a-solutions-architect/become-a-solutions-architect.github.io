@@ -15,7 +15,7 @@
 | Week 11 (22-Apr)	 |  [Personal Branding and Networking - Neeraja Ganesh](https://youtu.be/3dmDRB_aNUs) | [Learn by Teaching - James Eastham](https://youtu.be/6ngpN3eP5CI)                | [Journey to become a Solutions Architect - Victory Uchenna](https://youtu.be/RqZacrDxDZw) |    
 | Week 12 (29-Apr)	 | [Hacking the Job Hunt - Liz MacKay](https://youtu.be/-2tsJgE7MY0) | [Startups on AWS - Giuseppe and Jamila](https://youtu.be/jg6sR089Wb0)  |
 
-### Batch 03 Full Recordings (Feb-Mar-Apr 2023)
+### Batch 03 Resources (Feb-Mar-Apr 2023)
 
 [*Week 1 (11 February 2023)*](resources/assets/B03/W1/1.md)
 
