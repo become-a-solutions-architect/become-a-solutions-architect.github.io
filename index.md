@@ -27,9 +27,9 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
 | Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()  | [Abhijeet Patwardhan - Engagement Manager](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
 | Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Julie Elkins - Curriculum Developer](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management]()       | [Developer Advocate]()         	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge]()        | [Technical Trainer]()        	| 
-| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Support Engineer]()           	| 
+| Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate]()         	| 
+| Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge - QUSAY AL MAATOUK](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer]()        	| 
+| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services - Joseph Mamvong](https://www.linkedin.com/in/mamvong/)       | [Support Engineer]()           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Laura Smith - Technical Account Manager](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Account Manager]()            	| 
