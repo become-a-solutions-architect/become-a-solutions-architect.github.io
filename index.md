@@ -69,6 +69,11 @@ James Eastham is a Cloud Infrastructure Architect for AWS Professional Services 
 
 Jamila Jamilova is a Solutions Architect helping Manufacturing and Industrials customers to transform their businesses by solving complex technical problems. She is an active member of Technical Field Community with focus on Internet of Things (IoT). In her spare time she is playing piano, practicing karate and enjoys playing racing cars.
 
+### [Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)
+<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/parna.png">
+
+Parna Mehta is an authorized Technical Trainer for the AWS Training & Certifications team based in India. A cloud enthusiast and passionate about helping individuals upskill and embark on their AWS journey. She is a mentor for the AWS CloudUp-for-Her world-wide Program, AWS AspireForHer-Tech4Her India program and AWS SheDares Star award recipient for being a role model for women career re-starters. Her interests include exploring new places, cuisines and art forms.
+
 ### [Prasad Rao](https://www.linkedin.com/in/kprasadrao/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/prasad.png">
 
