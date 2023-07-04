@@ -32,7 +32,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services - Joseph Mamvong](https://www.linkedin.com/in/mamvong/)       | [Account Manager]()           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
-| Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer = Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+| Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ## Agenda: Week 9 to Week 12 (Behavioural Track)
 
