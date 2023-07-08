@@ -1,4 +1,4 @@
-## Batch 04 (Jul-Aug-Sep 2023)
+## Batch 04 (Jul-Aug-Sep 2023) (PDF of slides)
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
@@ -10,6 +10,32 @@
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+
+### Batch 04 Resources (Jul-Aug-Sep 2023)
+
+[*Week 1 (08 July 2023)*](resources/assets/B04/W01/1.md)
+
+[*Week 2 (15 July 2023)*]()
+
+[*Week 3 (22 July 2023)*]()
+
+[*Week 4 (29 July 2023)*]()
+
+[*Week 5 (05 Aug 2023)*]()
+
+[*Week 6 (12 Aug 2023)*]()
+
+[*Week 7 (19 Aug 2023)*]()
+
+[*Week 8 (26 Aug 2023)*]()
+
+[*Week 9 (02 Sep 2023)*]()
+
+[*Week 10 (09 Sep 2023)*]()
+
+[*Week 11 (16 Sep 2023)*]()
+
+[*Week 12 (23 sep 2023)*]()
 
 ## Batch 03 (Feb-Mar-Apr 2023)
 
