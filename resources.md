@@ -1,4 +1,4 @@
-## Batch 04 (Jul-Aug-Sep 2023) (Recordings)
+## Batch 04 (Recordings) (Jul-Aug-Sep 2023) 
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
@@ -11,7 +11,7 @@
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
-### Batch 04 Resources (Jul-Aug-Sep 2023)
+### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
 
 [*Week 1 (08 July 2023)*](resources/assets/B04/W01/1.md)
 
