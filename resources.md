@@ -1,4 +1,4 @@
-## Batch 04 (Jul-Aug-Sep 2023) (PDF of slides)
+## Batch 04 (Jul-Aug-Sep 2023) (Recordings)
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
