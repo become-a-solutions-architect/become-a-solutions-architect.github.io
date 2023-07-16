@@ -4,12 +4,12 @@
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
 | Week 1 (08-Jul)	| [Datacenters](https://youtube.com/live/x2SS4UQmSXk?feature=share) 	              | [Security Services in AWS](https://www.youtube.com/watch?v=x2SS4UQmSXk&t=51m18s)  | [Engagement Manager - Abhijeet Patwardhan](https://www.youtube.com/watch?v=x2SS4UQmSXk&t=5530s)         	| 
 | Week 2 (15-Jul)	| [Virtualization](https://youtube.com/live/gmk8--DgoEY?feature=share)	            | [Identify Security Scope](https://www.youtube.com/live/gmk8--DgoEY?t=55m10s)   | [Curriculum Developer - Julie Elkins](https://www.youtube.com/watch?v=gmk8--DgoEY&t=5705s)         	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer]()        	| 
-| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services - Joseph Mamvong](https://www.linkedin.com/in/mamvong/)       | [Account Manager]()           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
-| Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+| Week 3 (22-Jul)	| [Network Devices]             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
+| Week 4 (29-Jul)	| [ x x x ability]              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer]        	| 
+| Week 5 (05-Aug) | [Encryption]                  | [Encryption Services - Joseph Mamvong](https://www.linkedin.com/in/mamvong/)       | [Account Manager]           	| 
+| Week 6 (12-Aug)	| [Disaster Recovery]           | [Detection]                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
+| Week 7 (19-Aug)	| [DNS]                       | [Remediation]               | [Software Developer]        	| 
+| Week 8 (26-Aug)	| [Open for suggestion]        | [Open for suggestion]      | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
 
