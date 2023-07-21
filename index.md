@@ -29,7 +29,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Curriculum Developer - Julie Elkins](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
 | Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
 | Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
-| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services - Joseph Mamvong](https://www.linkedin.com/in/mamvong/)       | [Account Manager]()           	| 
+| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Account Manager]()           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
