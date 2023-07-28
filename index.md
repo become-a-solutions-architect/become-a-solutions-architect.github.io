@@ -31,7 +31,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
 | Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services]()       | [Account Manager]()           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection]()                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| [DNS]()                         | [Remediation]()               | [Software Developer]()         	| 
+| Week 7 (19-Aug)	| [DNS]()                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer]()         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ## Agenda: Week 9 to Week 12 (Behavioural Track)
