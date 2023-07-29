@@ -17,9 +17,9 @@
 
 [*Week 2 (15 July 2023)*](resources/assets/B04/W02/2.md)
 
-[*Week 3 (22 July 2023)*]()
+[*Week 3 (22 July 2023)*](resources/assets/B04/W03/3.md)
 
-[*Week 4 (29 July 2023)*]()
+[*Week 4 (29 July 2023)*](resources/assets/B04/W04/4.md)
 
 [*Week 5 (05 Aug 2023)*]()
 
