@@ -8,7 +8,7 @@
 | Week 4 (29-Jul)	| [ x x x ability](https://youtube.com/live/hies4XL7Hjw?feature=share)             | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
 | Week 5 (05-Aug) | [Encryption]                  | [Encryption Services - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager]           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]           | [Detection]                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| [DNS]                       | [Remediation]               | [Software Developer]        	| 
+| Week 7 (19-Aug)	| [DNS]                       | [Remediation]               | [Software Developer - Pranay Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]        | [Open for suggestion]      | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
