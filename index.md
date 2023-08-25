@@ -25,14 +25,14 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
 | :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
-| Week 1 (08-Jul)	| [Datacenters]() 	              | [Security Services in AWS]()  | [Engagement Manager - Abhijeet Patwardhan](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
-| Week 2 (15-Jul)	| [Virtualization]()	            | [Identify Security Scope]()   | [Curriculum Developer - Julie Elkins](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
-| Week 3 (22-Jul)	| [Network Devices]()             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
-| Week 4 (29-Jul)	| [ x x x ability]()              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
-| Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services- Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager - Jonathan Nally](https://www.linkedin.com/in/jonathannally/)           	| 
-| Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| [DNS]()                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranav Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
-| Week 8 (26-Aug)	| [ACtive Directory]()         | [Well-Architected - Security Pillar]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+| Week 1 (08-Jul)	| Datacenters 	              | Security Services in AWS | [Engagement Manager - Abhijeet Patwardhan](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
+| Week 2 (15-Jul)	| Virtualization           | Identify Security Scope   | [Curriculum Developer - Julie Elkins](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
+| Week 3 (22-Jul)	| Network Devices             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
+| Week 4 (29-Jul)	|  x x x ability              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
+| Week 5 (05-Aug) | Encryption                  | [Encryption Services- Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager - Jonathan Nally](https://www.linkedin.com/in/jonathannally/)           	| 
+| Week 6 (12-Aug)	| Disaster Recovery           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
+| Week 7 (19-Aug)	| DNS                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranav Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
+| Week 8 (26-Aug)	| Active Directory         | [Well-Architected - Security Pillar](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.security.en.html)       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ## Agenda: Week 9 to Week 12 (Behavioural Track)
 
