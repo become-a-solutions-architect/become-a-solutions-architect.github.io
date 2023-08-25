@@ -32,7 +32,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 5 (05-Aug) | [Encryption]()                  | [Encryption Services- Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager - Jonathan Nally](https://www.linkedin.com/in/jonathannally/)           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]()           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
 | Week 7 (19-Aug)	| [DNS]()                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranav Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
-| Week 8 (26-Aug)	| [Open for suggestion]()         | [Open for suggestion]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+| Week 8 (26-Aug)	| [ACtive Directory]()         | [Well-Architected - Security Pillar]()       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ## Agenda: Week 9 to Week 12 (Behavioural Track)
 
