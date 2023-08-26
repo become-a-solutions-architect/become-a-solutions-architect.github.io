@@ -8,7 +8,7 @@
 | Week 4 (29-Jul)	| [ x x x ability](https://youtube.com/live/hies4XL7Hjw)             | [Protection at Edge - Qusay Al-Maatok](https://www.youtube.com/watch?v=hies4XL7Hjw&t=3210s)        | [Technical Trainer - Marco Tamassia](https://www.youtube.com/watch?v=hies4XL7Hjw&t=5400s)        	| 
 | Week 5 (05-Aug) | [Encryption Basics](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=340s)                  | [Encryption Services - Carel Grove](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=2972s)       | [Account Manager - Jonathan Nally](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=6180s)           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery]           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| [DNS]                       | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranay Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
+| Week 7 (19-Aug)	| [DNS](https://www.youtube.com/watch?v=DnUHiIU6G0c)                      | [Remediation - Parna Mehta](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=3088s)               | [Software Engineer - Pranay Chaudhary](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=5513s)         	| 
 | Week 8 (26-Aug)	| [Open for suggestion]        | [Open for suggestion]      | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
 
 ### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
