@@ -9,7 +9,8 @@
 | Week 5 (05-Aug) | [Encryption Basics](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=340s)                  | [Encryption Services - Carel Grove](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=2972s)       | [Account Manager - Jonathan Nally](https://www.youtube.com/watch?v=lJqfZdg1vdg&t=6180s)           	| 
 | Week 6 (12-Aug)	| [Disaster Recovery](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=300s)           | [Detection - Parna Mehta](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=3500s)                 | [Technical Account Manager - Laura Smith](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=7060s)  	| 
 | Week 7 (19-Aug)	| [DNS](https://www.youtube.com/watch?v=DnUHiIU6G0c)                      | [Remediation - Parna Mehta](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=3088s)               | [Software Engineer - Pranay Chaudhary](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=5513s)         	| 
-| Week 8 (26-Aug)	| [Open for suggestion]        | [Open for suggestion]      | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+| Week 8 (26-Aug)	| [Active Directory]        | [Well-Architected Framework - Security Pillar](https://www.youtube.com/watch?v=iGRKVqGgixc&t=2700s)
+      | [Cloud Support Engineer - Nishant Buddhi](https://www.youtube.com/watch?v=iGRKVqGgixc&t=5520s)            	| 
 
 ### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
 
