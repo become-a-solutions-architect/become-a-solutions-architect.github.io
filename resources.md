@@ -10,6 +10,7 @@
 | Week 6 (12-Aug)	| [Disaster Recovery](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=300s)           | [Detection - Parna Mehta](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=3500s)                 | [Technical Account Manager - Laura Smith](https://www.youtube.com/watch?v=0rdq8hEzmCM&t=7060s)  	| 
 | Week 7 (19-Aug)	| [DNS](https://www.youtube.com/watch?v=DnUHiIU6G0c)                      | [Remediation - Parna Mehta](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=3088s)               | [Software Engineer - Pranay Chaudhary](https://www.youtube.com/watch?v=DnUHiIU6G0c&t=5513s)         	| 
 | Week 8 (26-Aug)	| [Active Directory](https://www.youtube.com/watch?v=iGRKVqGgixc&t=210s)        | [Well-Architected Framework - Security Pillar](https://www.youtube.com/watch?v=iGRKVqGgixc&t=2700s) | [Cloud Support Engineer - Nishant Buddhi](https://www.youtube.com/watch?v=iGRKVqGgixc&t=5520s)      	|
+| Week 9 (26-Aug)	| [The subtle art of delivering public technical sessions - Faizal Khan](https://youtube.com/live/GB5FxLTPlm0?feature=share)        | [Individual Contributor or Manager: Which is Right for You?](https://youtube.com/live/GB5FxLTPlm0?feature=share) |
 
 ### Batch 04 Resources (PDF of slides) (Jul-Aug-Sep 2023) 
 
