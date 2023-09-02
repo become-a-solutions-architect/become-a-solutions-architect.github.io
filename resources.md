@@ -30,7 +30,7 @@
 
 [*Week 8 (26 Aug 2023)*]()
 
-[*Week 9 (02 Sep 2023)*]resources/assets/B04/W09/9.md)
+[*Week 9 (02 Sep 2023)*](resources/assets/B04/W09/9.md)
 
 [*Week 10 (09 Sep 2023)*]()
 
