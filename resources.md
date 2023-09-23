@@ -12,8 +12,8 @@
 | Week 8 (26-Aug)	| [Active Directory](https://www.youtube.com/watch?v=iGRKVqGgixc&t=210s)        | [Well-Architected Framework - Security Pillar](https://www.youtube.com/watch?v=iGRKVqGgixc&t=2700s) | [Cloud Support Engineer - Nishant Buddhi](https://www.youtube.com/watch?v=iGRKVqGgixc&t=5520s)      	|
 | Week 9 (02-sep)	| [The subtle art of delivering public technical sessions - Faizal Khan](https://www.youtube.com/watch?v=GB5FxLTPlm0&t=270s)        | [Individual Contributor or Manager: Which is Right for You?](https://www.youtube.com/watch?v=GB5FxLTPlm0&t=3576s) |
 | Week 10 (09-Sep)	| [Unlocking the Blueprint to Becoming a Solution Architect - Ekta Parashar](https://www.youtube.com/watch?v=OjyURH7BWvI&t=150s)        | [The art of Confident Communication - Dipika Singh](https://www.youtube.com/watch?v=OjyURH7BWvI&t=3120s) |
-| Week 11 (16-Sep)	| []()        | []() |
-| Week 12 (23-Sep)	| []()        | []() |
+| Week 11 (16-Sep)	| [Tips and Tricks for Effective Whiteboarding - Marco Tamassia](https://www.youtube.com/watch?v=3GSjyUka_u0&t=175s)        | [How to grow your Social Media presence and boost your career? - Nishant Chahar](https://www.youtube.com/watch?v=3GSjyUka_u0&t=3829s) |
+| Week 12 (23-Sep)	| [MOCK Interview and Analysis by a seasoned AWS Interviewer - Sharique Kamal](https://www.youtube.com/watch?v=I22PjHO4bTw&t=135s)        | [The importance of human skills as a differentiator in technical roles - Simran  Jindal](https://www.youtube.com/watch?v=I22PjHO4bTw) |
 
 
 
@@ -41,7 +41,7 @@
 
 [*Week 11 (16 Sep 2023)*]()
 
-[*Week 12 (23 sep 2023)*]()
+[*Week 12 (23 sep 2023)*](resources/assets/B04/W12/12.md)
 
 ## Batch 03 (Feb-Mar-Apr 2023)
 
