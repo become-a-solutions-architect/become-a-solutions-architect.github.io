@@ -41,8 +41,7 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 09 (02-Sep)	| [Individual Contributor (IC) or Manager: Which is Right for You? - Prasad Rao](https://www.linkedin.com/in/kprasadrao/) | [The subtle art of delivering public technical sessions - Faizal Khan](https://www.linkedin.com/in/faizal-khan/)   |  
 | Week 10 (09-Sep)	| [Unlocking the Blueprint to Becoming a Solution Architect - Ekta Parashar](https://www.linkedin.com/in/ektaparashar/)        | [The art of Confident Communication - Dipika Singh](https://www.linkedin.com/in/dipika-singh-7b36115/)|
 | Week 11 (16-Sep)	| [Effective Whiteboarding - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)            | [How to Grow Your Social Media Presence and Boost your Career - Nishant Chahar](https://www.linkedin.com/in/chaharnishant11/)   |
-| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | [The importance of human skills as a differentiator in technical roles](https://www.linkedin.com/in/simranjindal/)
-  |
+| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | [The importance of human skills as a differentiator in technical roles](https://www.linkedin.com/in/simranjindal/)|
 
 
 ### Interested? Register now!
@@ -56,7 +55,7 @@ Visit FAQ [here](faq.md)
 
 ### Session schedule
 
-Check out our [Twitch channel](https://www.twitch.tv/besaprogram) to find our schedule. We broadcast on Saturdays at 9 AM UK Time.
+Check out our [YouTube channel](https://youtube.com/@be-SA/live). We broadcast on Saturdays at 9 AM UK Time.
 
 ## [Meet the team](https://become-a-solutions-architect.github.io/)
 
@@ -65,10 +64,12 @@ Check out our [Twitch channel](https://www.twitch.tv/besaprogram) to find our sc
 
 Ashish Prajapati is a technical instructor based in London, UK. He delivers a wide range of technical trainings to AWS customers across EMEA. Ashish has a deep background as a virtualization and cloud migration expert for companies of all sizes. This allows him to leverage his field knowledge into classroom by bringing real world examples to his students. He has created various technical resources which are listed on this website - [Analogies Cloud](https://www.analogiescloud.com).
 
+<!---
 ### [James Eastham](https://www.linkedin.com/in/james-eastham/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/james.jpeg">
 
 James Eastham is a Cloud Infrastructure Architect for AWS Professional Services based out of the UK. His main area of interest is helping people build serverless applications using .NET on AWS. He is an active membeer of both the Serverless and Microsoft Technical Field Communities. Outside of work, James spends a lot of time out in the hills with his 3 year old Labrador or training for an ultra-endurance run or cycling event.
+-->
 
 ### [Jamila Jamilova](https://www.linkedin.com/in/jjamilova/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Jamila" src="assets/img/jamila.png">
