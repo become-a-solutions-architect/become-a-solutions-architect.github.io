@@ -33,13 +33,13 @@
 
 [*Week 7 (19 Aug 2023)*](resources/assets/B04/W07/7.md)
 
-[*Week 8 (26 Aug 2023)*]()
+[*Week 8 (26 Aug 2023)*](resources/assets/B04/W08/8.md)
 
 [*Week 9 (02 Sep 2023)*](resources/assets/B04/W09/9.md)
 
-[*Week 10 (09 Sep 2023)*]()
+[*Week 10 (09 Sep 2023)*](resources/assets/B04/W10/10.md)
 
-[*Week 11 (16 Sep 2023)*]()
+[*Week 11 (16 Sep 2023)*](resources/assets/B04/W11/11.md)
 
 [*Week 12 (23 sep 2023)*](resources/assets/B04/W12/12.md)
 
