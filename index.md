@@ -41,7 +41,8 @@ For the final 4 weeks the sessions will be focused on the behavioural aspect of 
 | Week 09 (02-Sep)	| [Individual Contributor (IC) or Manager: Which is Right for You? - Prasad Rao](https://www.linkedin.com/in/kprasadrao/) | [The subtle art of delivering public technical sessions - Faizal Khan](https://www.linkedin.com/in/faizal-khan/)   |  
 | Week 10 (09-Sep)	| [Unlocking the Blueprint to Becoming a Solution Architect - Ekta Parashar](https://www.linkedin.com/in/ektaparashar/)        | [The art of Confident Communication - Dipika Singh](https://www.linkedin.com/in/dipika-singh-7b36115/)|
 | Week 11 (16-Sep)	| [Effective Whiteboarding - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)            | [How to Grow Your Social Media Presence and Boost your Career - Nishant Chahar](https://www.linkedin.com/in/chaharnishant11/)   |
-| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | TBD  |
+| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | [The importance of human skills as a differentiator in technical roles](https://www.linkedin.com/in/simranjindal/)
+  |
 
 
 ### Interested? Register now!
