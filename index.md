@@ -16,6 +16,7 @@ In this free program, we will focus on technical and behavioural concepts for be
 This batch is a certification focused batch. We will focus on following certifications:
 
 First 4 Weeks - AWS Certified Cloud Practitioner
+
 Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
 Topic list will follow soon.
