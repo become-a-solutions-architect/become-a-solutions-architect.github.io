@@ -5,22 +5,24 @@ This is a unique opportunity for you to be mentored by AWS Solution Architects t
 Many people reach out to us to get started on learning AWS to become Solutions Architect, or, simply need help with achieving certifications for career progression.
 In this free program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
+## Batch 05 is starting from 6-April-2024
+
 ## Prerequisites:
 - Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week for additional learning
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
 ## Session Format:
+This batch is a certification focused batch. We will focus on following certifications:
 
-For the first 8 weeks each session will consist of 3 parts:
+First 4 Weeks - AWS Certified Cloud Practitioner
+Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
-- Fundamentals Track - 45 minutes
-- Specialist Track - Security - 45 minutes 
-- A day in the life of an Amazonian - 30 minutes 
+Topic list will follow soon.
 
-For the final 4 weeks the sessions will be focused on the behavioural aspect of being a solutions architect.
 
-## Agenda: Week 1 to Week 8 (Technical Track)
+
+## Agenda Batch 04 : Week 1 to Week 8 (Technical Track)
 
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
