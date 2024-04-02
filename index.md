@@ -19,38 +19,12 @@ First 4 Weeks - AWS Certified Cloud Practitioner
 
 Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
-Topic list will follow soon.
-
 ## Batch 05 : Starting from 6-April
 
 
 | Week          	| Certification Track             | Well-Architected Track          | Behavioural Track                |
 | :---        	  |    :----:  			                |    :----:  	 				            |   	:---: 		                   |
-| Week 1 (06-April)	| Cloud Practitoner - Domain 1  | Are you well-architected?       | Learn and Be Cursious            |
-
-## Batch 04 : Week 1 to Week 8 (Technical Track)
-
-
-| Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
-| :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
-| Week 1 (08-Jul)	| Datacenters 	              | Security Services in AWS | [Engagement Manager - Abhijeet Patwardhan](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
-| Week 2 (15-Jul)	| Virtualization           | Identify Security Scope   | [Curriculum Developer - Julie Elkins](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
-| Week 3 (22-Jul)	| Network Devices             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
-| Week 4 (29-Jul)	|  x x x ability              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
-| Week 5 (05-Aug) | Encryption                  | [Encryption Services- Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager - Jonathan Nally](https://www.linkedin.com/in/jonathannally/)           	| 
-| Week 6 (12-Aug)	| Disaster Recovery           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
-| Week 7 (19-Aug)	| DNS                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranav Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
-| Week 8 (26-Aug)	| Active Directory         | [Well-Architected - Security Pillar](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.security.en.html)       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
-
-## Agenda: Week 9 to Week 12 (Behavioural Track)
-
-| Week          	| Session 1                       | Session 2                     |
-| :---        	  |    :----:  			                |    :----:  	 				          |   
-| Week 09 (02-Sep)	| [Individual Contributor (IC) or Manager: Which is Right for You? - Prasad Rao](https://www.linkedin.com/in/kprasadrao/) | [The subtle art of delivering public technical sessions - Faizal Khan](https://www.linkedin.com/in/faizal-khan/)   |  
-| Week 10 (09-Sep)	| [Unlocking the Blueprint to Becoming a Solution Architect - Ekta Parashar](https://www.linkedin.com/in/ektaparashar/)        | [The art of Confident Communication - Dipika Singh](https://www.linkedin.com/in/dipika-singh-7b36115/)|
-| Week 11 (16-Sep)	| [Effective Whiteboarding - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)            | [How to Grow Your Social Media Presence and Boost your Career - Nishant Chahar](https://www.linkedin.com/in/chaharnishant11/)   |
-| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | [The importance of human skills as a differentiator in technical roles](https://www.linkedin.com/in/simranjindal/)|
-
+| Week 1 (06-April)	| Cloud practitioner - Domain 1  | Are you well-architected?       | Learn and Be Cursious            |
 
 ### Interested? Register now!
 
@@ -120,3 +94,27 @@ All there to guide you.
 - This program is not affiliated with AWS. It is created by volunteers who work at AWS.
 - Views shared by us are our own and do not represent our employer.
 - In case of any conflicting information always refer to the official AWS Documentation.
+
+## Batch 04 : Week 1 to Week 8 (Technical Track)
+
+
+| Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
+| :---        	  |    :----:  			                |    :----:  	 				          |   	:---: 		                  |
+| Week 1 (08-Jul)	| Datacenters 	              | Security Services in AWS | [Engagement Manager - Abhijeet Patwardhan](https://www.linkedin.com/in/abhijeet-patwardhan-3763ab15/)         	| 
+| Week 2 (15-Jul)	| Virtualization           | Identify Security Scope   | [Curriculum Developer - Julie Elkins](https://www.linkedin.com/in/julie-elkins-33b30430/)         	| 
+| Week 3 (22-Jul)	| Network Devices             | [Identity Management - Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Developer Advocate - Eric Johnson](https://www.linkedin.com/in/singledigit/)         	| 
+| Week 4 (29-Jul)	|  x x x ability              | [Protection at Edge - Qusay Al-Maatok](https://www.linkedin.com/in/qusay-al-maatouk/)        | [Technical Trainer - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)        	| 
+| Week 5 (05-Aug) | Encryption                  | [Encryption Services- Carel Grove](https://www.linkedin.com/in/carel-grove/)       | [Account Manager - Jonathan Nally](https://www.linkedin.com/in/jonathannally/)           	| 
+| Week 6 (12-Aug)	| Disaster Recovery           | [Detection - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)                 | [Technical Account Manager - Laura Smith](https://www.linkedin.com/in/laura-l-smith/)  	| 
+| Week 7 (19-Aug)	| DNS                         | [Remediation - Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)               | [Software Developer - Pranav Chaudhary](https://www.linkedin.com/in/chaudharypranav/)         	| 
+| Week 8 (26-Aug)	| Active Directory         | [Well-Architected - Security Pillar](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.security.en.html)       | [Support Engineer - Nishant Buddhi](https://www.linkedin.com/in/nishant-buddhi/)            	| 
+
+## Agenda: Week 9 to Week 12 (Behavioural Track)
+
+| Week          	| Session 1                       | Session 2                     |
+| :---        	  |    :----:  			                |    :----:  	 				          |   
+| Week 09 (02-Sep)	| [Individual Contributor (IC) or Manager: Which is Right for You? - Prasad Rao](https://www.linkedin.com/in/kprasadrao/) | [The subtle art of delivering public technical sessions - Faizal Khan](https://www.linkedin.com/in/faizal-khan/)   |  
+| Week 10 (09-Sep)	| [Unlocking the Blueprint to Becoming a Solution Architect - Ekta Parashar](https://www.linkedin.com/in/ektaparashar/)        | [The art of Confident Communication - Dipika Singh](https://www.linkedin.com/in/dipika-singh-7b36115/)|
+| Week 11 (16-Sep)	| [Effective Whiteboarding - Marco Tamassia](https://www.linkedin.com/in/marcotamassia/)            | [How to Grow Your Social Media Presence and Boost your Career - Nishant Chahar](https://www.linkedin.com/in/chaharnishant11/)   |
+| Week 12 (23-Sep)	| [MOCK Interview Analysis - Mohammad Sharique Kamal](https://www.linkedin.com/in/shariquekamal/) | [The importance of human skills as a differentiator in technical roles](https://www.linkedin.com/in/simranjindal/)|
+
