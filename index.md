@@ -96,13 +96,21 @@ Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. H
 
 ## Volunteers:
 [Amit Arora](https://www.linkedin.com/in/amit-arora-cloud-security/)
+
 [James Eastham](https://www.linkedin.com/in/james-eastham/)
+
 [Kapil Dwivedi ](https://www.linkedin.com/in/kapildwivedi/)
+
 [Laura Addison](https://www.linkedin.com/in/laura-addison-61366121/)
+
 [Nicole Demiray](https://www.linkedin.com/in/nicole-demiray/)
+
 [Rémy Sardin](https://www.linkedin.com/in/remysardin/)
+
 [Richard Colborne](https://www.linkedin.com/in/richardcolborne/)
+
 [Sharique Kamal](https://www.linkedin.com/in/shariquekamal/)
+
 [Zamira Jaupa](https://www.linkedin.com/in/zamirajaupaj/)
 
 All there to guide you.
