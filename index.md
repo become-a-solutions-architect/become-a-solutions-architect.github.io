@@ -21,9 +21,14 @@ Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
 Topic list will follow soon.
 
+## Batch 05 : Starting from 6-April
 
 
-## Agenda Batch 04 : Week 1 to Week 8 (Technical Track)
+| Week          	| Certification Track             | Well-Architected Track          | Behavioural Track                |
+| :---        	  |    :----:  			                |    :----:  	 				            |   	:---: 		                   |
+| Week 1 (06-April)	| Cloud Practitoner - Domain 1  | Are you well-architected?       | Learn and Be Cursious            |
+
+## Batch 04 : Week 1 to Week 8 (Technical Track)
 
 
 | Week          	| Foundational Track              | Specialist Track - Security   | A day in the life of an Amazonian  |
@@ -72,13 +77,13 @@ Ashish Prajapati is a technical instructor based in London, UK. He delivers a wi
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/james.jpeg">
 
 James Eastham is a Cloud Infrastructure Architect for AWS Professional Services based out of the UK. His main area of interest is helping people build serverless applications using .NET on AWS. He is an active membeer of both the Serverless and Microsoft Technical Field Communities. Outside of work, James spends a lot of time out in the hills with his 3 year old Labrador or training for an ultra-endurance run or cycling event.
--->
+
 
 ### [Jamila Jamilova](https://www.linkedin.com/in/jjamilova/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Jamila" src="assets/img/jamila.png">
 
 Jamila Jamilova is a Solutions Architect helping Manufacturing and Industrials customers to transform their businesses by solving complex technical problems. She is an active member of Technical Field Community with focus on Internet of Things (IoT). In her spare time she is playing piano, practicing karate and enjoys playing racing cars.
-
+-->
 ### [Parna Mehta](https://www.linkedin.com/in/parna-mehta-375482140/)
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Parna" src="assets/img/Parna.png">
 
@@ -89,7 +94,8 @@ Parna Mehta is an authorized Technical Trainer for the AWS Training & Certificat
 
 Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
 
-
+## Volunteers:
+[Individual Contributor (IC) or Manager: Which is Right for You? - Prasad Rao](https://www.linkedin.com/in/kprasadrao/)
 
 
 All there to guide you.
