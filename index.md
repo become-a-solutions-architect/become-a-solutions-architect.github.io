@@ -8,7 +8,7 @@ In this free program, we will focus on technical and behavioural concepts for be
 ## Batch 05 is starting from 6-April-2024
 
 ## Prerequisites:
-- Time commitement - 2 hours each Saturday and 6 to 8 hours spread over the week for additional learning
+- Time commitement - 2 hours each Saturday for live session and 6 to 8 hours spread over the week for additional self-learning at your own pace
 - Understanding of basic IT concepts (e.g. Servers, Storage, IP Addresses)
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
@@ -24,7 +24,7 @@ Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
 | Week          	| Certification Track             | Well-Architected Track          | Behavioural Track                |
 | :---        	  |    :----:  			                |    :----:  	 				            |   	:---: 		                   |
-| Week 1 (06-April)	| Cloud practitioner - Domain 1  | Are you well-architected?       | Learn and Be Cursious            |
+| Week 1 (06-April)	| Cloud practitioner - Domain 1  | Are you well-architected?       | Learn and Be Curious            |
 
 ### Interested? Register now!
 
