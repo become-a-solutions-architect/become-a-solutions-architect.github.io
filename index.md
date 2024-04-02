@@ -69,23 +69,11 @@ Parna Mehta is an authorized Technical Trainer for the AWS Training & Certificat
 Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
 
 ## Volunteers:
-[Amit Arora](https://www.linkedin.com/in/amit-arora-cloud-security/)
+|  [Amit Arora](https://www.linkedin.com/in/amit-arora-cloud-security/)   |  [James Eastham](https://www.linkedin.com/in/james-eastham/)  |  [Kapil Dwivedi ](https://www.linkedin.com/in/kapildwivedi/)            
 
-[James Eastham](https://www.linkedin.com/in/james-eastham/)
+|  [Laura Addison](https://www.linkedin.com/in/laura-addison-61366121/)  |  [Nicole Demiray](https://www.linkedin.com/in/nicole-demiray/)          |  [Rémy Sardin](https://www.linkedin.com/in/remysardin/)   |  
 
-[Kapil Dwivedi ](https://www.linkedin.com/in/kapildwivedi/)
-
-[Laura Addison](https://www.linkedin.com/in/laura-addison-61366121/)
-
-[Nicole Demiray](https://www.linkedin.com/in/nicole-demiray/)
-
-[Rémy Sardin](https://www.linkedin.com/in/remysardin/)
-
-[Richard Colborne](https://www.linkedin.com/in/richardcolborne/)
-
-[Sharique Kamal](https://www.linkedin.com/in/shariquekamal/)
-
-[Zamira Jaupa](https://www.linkedin.com/in/zamirajaupaj/)
+|  [Richard Colborne](https://www.linkedin.com/in/richardcolborne/)      |   [Sharique Kamal](https://www.linkedin.com/in/shariquekamal/)  |  [Zamira Jaupa](https://www.linkedin.com/in/zamirajaupaj/)  |  
 
 All there to guide you.
 
