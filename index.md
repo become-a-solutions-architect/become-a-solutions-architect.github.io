@@ -28,7 +28,7 @@ Next 8 Weeks - AWS Certified Solutions Architect - Associate
 
 ### Interested? Register now!
 
-Fill the form [here](https://forms.gle/47CRQgwkBdLidNCx6) and the team will come back to you with futher steps.
+Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSea-Sw53TvWfbUZGY25Ia8UpG5gtbClBuxm2_cduAjyZfi4-g/viewform) and the team will come back to you with futher steps.
 
 
 ### FAQ
