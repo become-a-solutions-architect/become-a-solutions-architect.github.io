@@ -11,12 +11,6 @@ No not at all! The intent of the program is to help you learn Cloud Skills. You 
 ### *What if I cannot attend the weekly meetings regularly?*
  All the live sessions are recorded and will be shared through an online medium for later viewing.
 
-### *Will this program help me in passing my certification exam?*
- This program is a mentorship program. The technical topics covered in sessions will help you in building a strong foundation for AWS Cloud Technologies, but this is not a certification preparation program.
-
-### *How many participants will be selected for second stage (Behavioural Skills) of the program?*
- We intend to help as many participants as we can but due to the logistics and time challenges we would be accepting only up to 20 candidates for the second stage (Behavioural Skills).
-
 ### *Can I join the program in the middle?*
  We encourage participants to join the program from very beginning as the technical sessions are built on knowledge acquired in previous session. But if you still want to participate in the middle please reach out to us with your reason.
 
