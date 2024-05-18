@@ -1,0 +1,79 @@
+### ############################
+### Security in AWS [BeSA-Week7]
+### ############################
+
+
+### Keywords
+- RBAC / LRA
+- Access Management
+- SAML / OAuth 2.0 / OIDC
+- IDS / IPS
+
+
+#### 3 A's of security
+A - Authentication [2FA/MFA]
+    - What you know --> Credentials
+    - What you have --> Soft or hard tokens
+    - What you are  --> Biometrics
+A - Authorization
+A - Accounting [Auditing / Investigation]
+
+#### IAM
+- Users
+- Groups
+- Policies
+- Roles
+
+### Identity Federation in AWS
+- Amazon Cognito [For SAML and OIDC]
+
+#### Third party identity provider examples
+- Google
+- Facebook
+- Apple
+- Amazon
+- and more..
+ 
+
+### Encryption of data at rest
+- Managing encryption keys
+    - KMS [Shared tenancy]
+    - CloudHSM [Dedicated tenancy]
+
+### Firewalls in AWS
+- Security Groups
+- Network ACLs
+- Network Firewalls
+- WAF
+- Shield [DDoS]
+    - Standard
+        - Enabled by default
+        - Free
+        - Layer 3/4
+    - Advanced 
+        - Layer 6/7
+        - Has to be subscribed
+        - Monthly subscription Fee
+        - 24x7 access to SRT [Shield Response Team]
+
+### Additional Security services
+- Amazon Inspector
+- Amazon Macie
+- Amazon Detective
+- AWS Security Hub
+- AWS Config
+
+
+
+### Links and References
+- https://aws.amazon.com/products/security/
+- https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-best-practices-ddos-resiliency/aws-best-practices-ddos-resiliency.pdf
+- https://aws.amazon.com/compliance/resources/
+- https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf
+- https://www.udemy.com/course/security-services-in-aws/
+- https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/encryption-best-practices/encryption-best-practices.pdf
+- https://docs.aws.amazon.com/pdfs/whitepapers/latest/introduction-aws-security/introduction-aws-security.pdf
+
+
+
+
