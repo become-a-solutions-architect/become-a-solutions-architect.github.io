@@ -5,7 +5,7 @@ This is a unique opportunity for you to be mentored by AWS Solution Architects t
 Many people reach out to us to get started on learning AWS to become Solutions Architect, or, simply need help with achieving certifications for career progression.
 In this free program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
-## Batch 05 is starting from 6-April-2024
+## Batch 07 is starting from 5-Oct-2024 (Saturday)
 
 ## Prerequisites:
 - Time commitement - 2 hours each Saturday for live session and 6 to 8 hours spread over the week for additional self-learning at your own pace
@@ -13,22 +13,19 @@ In this free program, we will focus on technical and behavioural concepts for be
 - Have your own AWS account for practice. We can guide you about the process if you don't have account yet 
 
 ## Session Format:
-This batch is a certification focused batch. We will focus on following certifications:
+Join us at BeSA as we guide you through an 8-week immersive AWS AI Practitioner Learning Plan designed to empower you with essential skills and insights.
 
-First 4 Weeks - AWS Certified Cloud Practitioner
-
-Next 8 Weeks - AWS Certified Solutions Architect - Associate
-
+<!---
 ## Batch 05 : Starting from 6-April
 
 
 | Week          	| Certification Track             | Well-Architected Track          | Behavioural Track                |
 | :---        	  |    :----:  			                |    :----:  	 				            |   	:---: 		                   |
 | Week 1 (06-April)	| Cloud practitioner - Domain 1  | Are you well-architected?       | Learn and Be Curious            |
-
+-->
 ### Interested? Register now!
 
-Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSea-Sw53TvWfbUZGY25Ia8UpG5gtbClBuxm2_cduAjyZfi4-g/viewform) and the team will come back to you with futher steps.
+Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSedQWgMZkwqH_aNtqHqpBSNeHCMlHLbIYCyBi81FAXX2vg0sQ/viewform) and the team will come back to you with futher steps.
 
 
 ### FAQ
@@ -67,7 +64,7 @@ Parna Mehta is an authorized Technical Trainer for the AWS Training & Certificat
 <img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" alt="Prasad" src="assets/img/prasad.png">
 
 Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. His focus areas are .NET Application Modernization and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to cloud and would like to get started on AWS.
-
+<!---
 ## Volunteers:
 |  [Amit Arora](https://www.linkedin.com/in/amit-arora-cloud-security/)   |  [James Eastham](https://www.linkedin.com/in/james-eastham/)  |  [Kapil Dwivedi ](https://www.linkedin.com/in/kapildwivedi/)      |      
 
@@ -76,7 +73,7 @@ Prasad Rao is a Principal Partner Solutions Architect for AWS based out of UK. H
 |  [Richard Colborne](https://www.linkedin.com/in/richardcolborne/)      |   [Sharique Kamal](https://www.linkedin.com/in/shariquekamal/)  |  [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/)  |  
 
 |  [Pilar Pinto](https://www.linkedin.com/in/pilarpinto/)   |
-
+-->
 
 All there to guide you.
 
