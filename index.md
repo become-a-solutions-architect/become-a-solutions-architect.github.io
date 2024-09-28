@@ -5,7 +5,7 @@ This is a unique opportunity for you to be mentored by AWS Solution Architects t
 Many people reach out to us to get started on learning AWS to become Solutions Architect, or, simply need help with achieving certifications for career progression.
 In this free program, we will focus on technical and behavioural concepts for becoming a successful Solutions Architect, help you upskill for certifications, and provide interview coaching support for opportunities inside and outside AWS.
 
-## Batch 07 is starting from 5-Oct-2024 (Saturday)
+## Batch 06 is starting from 5-Oct-2024 (Saturday)
 
 ## Prerequisites:
 - Time commitement - 2 hours each Saturday for live session and 6 to 8 hours spread over the week for additional self-learning at your own pace
